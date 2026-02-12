@@ -1,0 +1,3446 @@
+[
+  {
+    "cttsCode": "A7003",
+    "cttsName": "11-DEOXYCORTISOL LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "11DEOXYCORT"
+  },
+  {
+    "cttsCode": "A5001",
+    "cttsName": "17OH PROGESTERONE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "17OH"
+  },
+  {
+    "cttsCode": "A6036",
+    "cttsName": "21-HYDROXYLASE ANTIBODY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "21HYDRO"
+  },
+  {
+    "cttsCode": "A427",
+    "cttsName": "24BP",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BP"
+  },
+  {
+    "cttsCode": "A3104",
+    "cttsName": "6-M PURINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "6MMP"
+  },
+  {
+    "cttsCode": "A3002",
+    "cttsName": "6-THIOGUANINE NUCLEOTIDES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TGN"
+  },
+  {
+    "cttsCode": "A1069",
+    "cttsName": "ACH RECEPTOR Ab",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ACHR"
+  },
+  {
+    "cttsCode": "A165",
+    "cttsName": "ACTIVE B12",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "AB12_REF"
+  },
+  {
+    "cttsCode": "A6021",
+    "cttsName": "ADB TITRE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ADB"
+  },
+  {
+    "cttsCode": "A6018",
+    "cttsName": "ADENOVIRUS SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ADENOS"
+  },
+  {
+    "cttsCode": "A3108",
+    "cttsName": "ADRENAL ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ADREAB"
+  },
+  {
+    "cttsCode": "A1062",
+    "cttsName": "ADRENOCORTICOTROPIC HORMONE (AC)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ACTH"
+  },
+  {
+    "cttsCode": "A1045",
+    "cttsName": "AFB EXAMINATION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "AFB"
+  },
+  {
+    "cttsCode": "A3012",
+    "cttsName": "ALDOSTERONE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ALDO"
+  },
+  {
+    "cttsCode": "A1061",
+    "cttsName": "ALPHA 1 ANTITRYPSIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ATRY"
+  },
+  {
+    "cttsCode": "A4334",
+    "cttsName": "ALP ISOENZYMES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ALPISO"
+  },
+  {
+    "cttsCode": "A5007",
+    "cttsName": "AMMONIA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "AMM"
+  },
+  {
+    "cttsCode": "A6017",
+    "cttsName": "AMOEBA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "AMOEB"
+  },
+  {
+    "cttsCode": "A4462",
+    "cttsName": "AMYLASE - URINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "AMYLUR"
+  },
+  {
+    "cttsCode": "A4011",
+    "cttsName": "ANCA (Neutrophil Cytoplasmic Abs)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ANCA"
+  },
+  {
+    "cttsCode": "A4463",
+    "cttsName": "ANDROSTENEDIONE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ANDROST"
+  },
+  {
+    "cttsCode": "A5215",
+    "cttsName": "ANDROSTENEDIONE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ANDROST_SVP"
+  },
+  {
+    "cttsCode": "A5205",
+    "cttsName": "ANGIOTENSIN CONVERTING ENZYME",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ACE"
+  },
+  {
+    "cttsCode": "A4475",
+    "cttsName": "ANTI-DFS70",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "DFS70"
+  },
+  {
+    "cttsCode": "A1073",
+    "cttsName": "ANTI DIPHTHERIA TOXOID IgG",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "DIPTH"
+  },
+  {
+    "cttsCode": "A4464",
+    "cttsName": "ANTI FACTOR XA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FXA"
+  },
+  {
+    "cttsCode": "A5208",
+    "cttsName": "ANTI-HCV SUPPLEMENTAL TEST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HCVCONF"
+  },
+  {
+    "cttsCode": "A5022",
+    "cttsName": "ANTI-MPO ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MPO"
+  },
+  {
+    "cttsCode": "A7200",
+    "cttsName": "ANTI PHOSPHOLIPASE A2 RECEPTOR AB",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "APLA2R"
+  },
+  {
+    "cttsCode": "A5021",
+    "cttsName": "ANTI-PR3 ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PR3"
+  },
+  {
+    "cttsCode": "A4015",
+    "cttsName": "ANTI SACCHAROMYCES CEREVISAE ANTI",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ASCA"
+  },
+  {
+    "cttsCode": "A1074",
+    "cttsName": "ANTISTREPTOLYSIN O",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ASOT"
+  },
+  {
+    "cttsCode": "A5013",
+    "cttsName": "ANTI-TETANUS TOXOID IgG",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TET"
+  },
+  {
+    "cttsCode": "A4466",
+    "cttsName": "APIXABAN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "APIX"
+  },
+  {
+    "cttsCode": "A6006",
+    "cttsName": "APOLIPOPROTEIN A1",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "APOLIP"
+  },
+  {
+    "cttsCode": "A5044",
+    "cttsName": "APOLIPOPROTEIN B",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "APOLB"
+  },
+  {
+    "cttsCode": "A6137",
+    "cttsName": "ARBOVIRUS SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ARBO"
+  },
+  {
+    "cttsCode": "A5041",
+    "cttsName": "ASPERGILLUS FUMIGATUS ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ASPAB"
+  },
+  {
+    "cttsCode": "A6136",
+    "cttsName": "ATYPICAL PNEUMONIA PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ATYPN"
+  },
+  {
+    "cttsCode": "A6138",
+    "cttsName": "AUTOIMMUNE LIMBIC ENCEPHALITIS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LIMBENC"
+  },
+  {
+    "cttsCode": "A5235",
+    "cttsName": "B2 GLYCOPROTEIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "B2G"
+  },
+  {
+    "cttsCode": "A6009",
+    "cttsName": "BARMAH FOREST VIRUS SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BARMAH"
+  },
+  {
+    "cttsCode": "A6134",
+    "cttsName": "BCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BCR"
+  },
+  {
+    "cttsCode": "A5234",
+    "cttsName": "BENCE JONES PROTEIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BJP"
+  },
+  {
+    "cttsCode": "A5200",
+    "cttsName": "BETA HCG TUMOUR MARKERS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BHCGTM"
+  },
+  {
+    "cttsCode": "A4451",
+    "cttsName": "BETA HYDROXY BUTYRATE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BHB"
+  },
+  {
+    "cttsCode": "A5003",
+    "cttsName": "BILE ACIDS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BILE"
+  },
+  {
+    "cttsCode": "A5009",
+    "cttsName": "BILIRUBIN (TOTAL & CONJUGATED)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BILI"
+  },
+  {
+    "cttsCode": "A413",
+    "cttsName": "BORDETELLA PERTUSSIS SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "Pertussis"
+  },
+  {
+    "cttsCode": "A6141",
+    "cttsName": "BRUCELLA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BRUCE"
+  },
+  {
+    "cttsCode": "A3009",
+    "cttsName": "BUDERIGAR ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BUDAB"
+  },
+  {
+    "cttsCode": "A5035",
+    "cttsName": "BUTYRYLCHOLINESTERASE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "BUTCHOL"
+  },
+  {
+    "cttsCode": "A1044",
+    "cttsName": "C3 C4 (COMPLEMENT)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "C3C4"
+  },
+  {
+    "cttsCode": "A164",
+    "cttsName": "CA 15.3",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CA153"
+  },
+  {
+    "cttsCode": "A5049",
+    "cttsName": "CA72.4",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CA724"
+  },
+  {
+    "cttsCode": "A6031",
+    "cttsName": "CADMIUM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CADM"
+  },
+  {
+    "cttsCode": "A5225",
+    "cttsName": "CAERULOPLASMIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CAERU"
+  },
+  {
+    "cttsCode": "A5042",
+    "cttsName": "CALCITONIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CALCI"
+  },
+  {
+    "cttsCode": "A1060",
+    "cttsName": "CALCULUS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CALC"
+  },
+  {
+    "cttsCode": "A7202",
+    "cttsName": "CARBAMAZEPINE FREE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CARBA"
+  },
+  {
+    "cttsCode": "A5037",
+    "cttsName": "CARBOHYDRATE DEFICIENT TRANSFERR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CDTASSAY"
+  },
+  {
+    "cttsCode": "A5034",
+    "cttsName": "CAROTENE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CAROT"
+  },
+  {
+    "cttsCode": "A3005",
+    "cttsName": "CATECHOLAMINES - URINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CATECH"
+  },
+  {
+    "cttsCode": "A4012",
+    "cttsName": "CCP (Rheumatoid Arthritis Abs)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CCP_REF"
+  },
+  {
+    "cttsCode": "A417",
+    "cttsName": "CERVICAL SCREENING TEST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HPV"
+  },
+  {
+    "cttsCode": "A1064",
+    "cttsName": "CFTR GENE SEQUENCING(NonMBS)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CFTR"
+  },
+  {
+    "cttsCode": "A4470",
+    "cttsName": "CH100",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CH100"
+  },
+  {
+    "cttsCode": "A6012",
+    "cttsName": "CHIKUNGUNYA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CHIKUNG"
+  },
+  {
+    "cttsCode": "A407",
+    "cttsName": "Chlamydia Antibody Screening",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "Chlam Ab"
+  },
+  {
+    "cttsCode": "A409",
+    "cttsName": "Chlamydia PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ChlamPCR_OLD"
+  },
+  {
+    "cttsCode": "A6135",
+    "cttsName": "CHLAMYDIA PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CHLAMPCR"
+  },
+  {
+    "cttsCode": "A600",
+    "cttsName": "CHLAMYDIA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CHLAM"
+  },
+  {
+    "cttsCode": "A408",
+    "cttsName": "Chlamydia Trachomatis",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "C. trachomatis"
+  },
+  {
+    "cttsCode": "A3111",
+    "cttsName": "CHROMATIN ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CHRAB"
+  },
+  {
+    "cttsCode": "A5043",
+    "cttsName": "CHROMIUM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CHROM"
+  },
+  {
+    "cttsCode": "A5039",
+    "cttsName": "CHROMOGRANIN-A",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CHROMA"
+  },
+  {
+    "cttsCode": "A3007",
+    "cttsName": "CHROMOSOME MICROARRAY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CMA"
+  },
+  {
+    "cttsCode": "A4469",
+    "cttsName": "CLEXANE ANTI XA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CLEX"
+  },
+  {
+    "cttsCode": "A5233",
+    "cttsName": "CLOZAPINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CLOZ"
+  },
+  {
+    "cttsCode": "A3106",
+    "cttsName": "COAGULATION FACTOR ASSASYS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FACTOR"
+  },
+  {
+    "cttsCode": "A3006",
+    "cttsName": "COCCIDIOIDOMYCOSIS Ab",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COCCI"
+  },
+  {
+    "cttsCode": "A1063",
+    "cttsName": "COELIAC GENOTYPE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COEGEN"
+  },
+  {
+    "cttsCode": "A3109",
+    "cttsName": "COELIAC SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COEL"
+  },
+  {
+    "cttsCode": "A6041",
+    "cttsName": "COPEPTIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COPEP"
+  },
+  {
+    "cttsCode": "A4001",
+    "cttsName": "COPPER LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COP"
+  },
+  {
+    "cttsCode": "A5045",
+    "cttsName": "COTININE LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COTI"
+  },
+  {
+    "cttsCode": "A1005",
+    "cttsName": "C-PEPTIDE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CPEPT"
+  },
+  {
+    "cttsCode": "A6030",
+    "cttsName": "CRYPTOCOCCAL ANTIGENS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CRYPAG"
+  },
+  {
+    "cttsCode": "A5036",
+    "cttsName": "CRYPTOCOCCAL ANTIGEN SERUM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CRYPAG_RPA"
+  },
+  {
+    "cttsCode": "A1042",
+    "cttsName": "C TELOPEPTIDE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CTX"
+  },
+  {
+    "cttsCode": "A601",
+    "cttsName": "CULTURE MYCOPLASMA AND UREAPLASI",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MYCOUREA"
+  },
+  {
+    "cttsCode": "A4474",
+    "cttsName": "CYTOMEGALOVIRUS PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "CMVPCR"
+  },
+  {
+    "cttsCode": "A5226",
+    "cttsName": "DENGUE VIRUS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "DENG"
+  },
+  {
+    "cttsCode": "A4450",
+    "cttsName": "DIHYDROTESTOSTERONE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "DHT"
+  },
+  {
+    "cttsCode": "A426",
+    "cttsName": "Disaccharidase",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "DIS"
+  },
+  {
+    "cttsCode": "A424",
+    "cttsName": "ECC",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ECG"
+  },
+  {
+    "cttsCode": "A1011",
+    "cttsName": "ELASTASE(nonMBS)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ELAST"
+  },
+  {
+    "cttsCode": "A5214",
+    "cttsName": "ENA CONFIRMATION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ENACONF"
+  },
+  {
+    "cttsCode": "A4476",
+    "cttsName": "ENTEROVIRUS TAQMAN PCR SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ENTERO"
+  },
+  {
+    "cttsCode": "A1049",
+    "cttsName": "EPSTEIN BARR VIRUS PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "EBVPCR"
+  },
+  {
+    "cttsCode": "A5247",
+    "cttsName": "ETHANOL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ETH"
+  },
+  {
+    "cttsCode": "A400",
+    "cttsName": "EXTRA REFERRAL RESULTS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "EXTRA"
+  },
+  {
+    "cttsCode": "A1043",
+    "cttsName": "FACTOR V LEIDEN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FVL"
+  },
+  {
+    "cttsCode": "A6004",
+    "cttsName": "FAECAL REDUCING SUBSTANCES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FREDSUB"
+  },
+  {
+    "cttsCode": "A5555",
+    "cttsName": "FAMILIAL MEDITERRANEAN FEVER",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FMF"
+  },
+  {
+    "cttsCode": "A3011",
+    "cttsName": "FARMER'S LUNG IgG ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FARMAB"
+  },
+  {
+    "cttsCode": "A6155",
+    "cttsName": "FILARIA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FIL"
+  },
+  {
+    "cttsCode": "A7001",
+    "cttsName": "FMR1",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FMR1"
+  },
+  {
+    "cttsCode": "A015",
+    "cttsName": "FOL - No Clinical Notes",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FOL1"
+  },
+  {
+    "cttsCode": "A1013",
+    "cttsName": "FRAGILE X",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FRAGX"
+  },
+  {
+    "cttsCode": "A166",
+    "cttsName": "FREE ANDROGEN INDEX PANEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FAI_REF"
+  },
+  {
+    "cttsCode": "A1067",
+    "cttsName": "FREE LIGHT CHAINS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FLC_RPAH"
+  },
+  {
+    "cttsCode": "A3103",
+    "cttsName": "FREE LIGHT CHAINS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FLC"
+  },
+  {
+    "cttsCode": "A5245",
+    "cttsName": "FREE TESTOSTERONE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FTESTO_REF"
+  },
+  {
+    "cttsCode": "A4333",
+    "cttsName": "FRUCTOSAMINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FRUCT"
+  },
+  {
+    "cttsCode": "A5050",
+    "cttsName": "G6PD SCREEN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "G6PD"
+  },
+  {
+    "cttsCode": "A4460",
+    "cttsName": "GAD ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GAD"
+  },
+  {
+    "cttsCode": "A5002",
+    "cttsName": "GAD ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GAD_RPAH"
+  },
+  {
+    "cttsCode": "A5033",
+    "cttsName": "GASTRIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GAST"
+  },
+  {
+    "cttsCode": "A8990",
+    "cttsName": "GASTROINTESTINAL HISTOPATHOLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GASTRO"
+  },
+  {
+    "cttsCode": "A422",
+    "cttsName": "GENERAL CYTOLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GCyto"
+  },
+  {
+    "cttsCode": "A6032",
+    "cttsName": "GLOMERULAR BASEMENT MEMBRANE AN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GBMAB"
+  },
+  {
+    "cttsCode": "A6024",
+    "cttsName": "GM1 GANGLIOSIDE IgM ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GM1"
+  },
+  {
+    "cttsCode": "A6139",
+    "cttsName": "GROUP B STREPTOCOCCUS PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GRBSPCR"
+  },
+  {
+    "cttsCode": "A5224",
+    "cttsName": "GROWTH HORMONES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "GROWTH"
+  },
+  {
+    "cttsCode": "A203",
+    "cttsName": "Haemochromatosis",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HGA1&2"
+  },
+  {
+    "cttsCode": "A3102",
+    "cttsName": "HAEMOCHROMATOSIS GENE MUTATION /",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HFE"
+  },
+  {
+    "cttsCode": "A6019",
+    "cttsName": "HAEMOGLOBINOPATHY GENETIC INVEST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HAEMGEN"
+  },
+  {
+    "cttsCode": "A5204",
+    "cttsName": "HAPTOGLOBIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HAPTO"
+  },
+  {
+    "cttsCode": "A5211",
+    "cttsName": "HbA1c CONFIRMATION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HBA1CCONF"
+  },
+  {
+    "cttsCode": "A5232",
+    "cttsName": "HBeAb",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HBEAB"
+  },
+  {
+    "cttsCode": "A6002",
+    "cttsName": "HbEPG CONFIRMATORY TEST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HBEPGCONF"
+  },
+  {
+    "cttsCode": "A4461",
+    "cttsName": "HE4",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HE4"
+  },
+  {
+    "cttsCode": "A5201",
+    "cttsName": "HEPATITIS A IgM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HEPAIGM"
+  },
+  {
+    "cttsCode": "A103",
+    "cttsName": "HEPATITIS B DNA (Frozen)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HBV DNA"
+  },
+  {
+    "cttsCode": "A5207",
+    "cttsName": "HEPATITIS B - e Ag",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HBEAG"
+  },
+  {
+    "cttsCode": "A5231",
+    "cttsName": "HEPATITIS B SURFACE Ag CONFIRMATION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HBSAGCONF"
+  },
+  {
+    "cttsCode": "A5213",
+    "cttsName": "HEPATITIS B SURFACE ANTIGEN CONFIRN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HEPBSAGCONF"
+  },
+  {
+    "cttsCode": "A408",
+    "cttsName": "HEPATITIS C PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HepC PCR"
+  },
+  {
+    "cttsCode": "A5242",
+    "cttsName": "HEPATITIS C RNA VIRAL LOAD",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HCVLOAD"
+  },
+  {
+    "cttsCode": "A5241",
+    "cttsName": "HEPATITIS C VIRUS GENOTYPE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HCVGENO"
+  },
+  {
+    "cttsCode": "A6016",
+    "cttsName": "HEPATITIS D SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HEPD"
+  },
+  {
+    "cttsCode": "A6015",
+    "cttsName": "HEPATITIS E SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HEPESER"
+  },
+  {
+    "cttsCode": "A4471",
+    "cttsName": "HEPATITIS B CORE IgM ANTIBODY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HEPBCIGM"
+  },
+  {
+    "cttsCode": "A420",
+    "cttsName": "Herpes Simplex",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "Herpes"
+  },
+  {
+    "cttsCode": "A416",
+    "cttsName": "Herpes Simplex Serology",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "H.Simplex"
+  },
+  {
+    "cttsCode": "A161",
+    "cttsName": "HERPES SIMPLEX VIRUS SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HSVS"
+  },
+  {
+    "cttsCode": "A3008",
+    "cttsName": "HFE-RELATED HEREDITARY HAEMOCHRC",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HFE_RPAH"
+  },
+  {
+    "cttsCode": "A1065",
+    "cttsName": "HISTOPLASMOSIS Ab",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HPLASMO"
+  },
+  {
+    "cttsCode": "A5210",
+    "cttsName": "HIV CONFIRMATION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HIVCONF"
+  },
+  {
+    "cttsCode": "A5219",
+    "cttsName": "HLA B27",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HLAB27SYD"
+  },
+  {
+    "cttsCode": "A1066",
+    "cttsName": "HLA-B580 1",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HLAB5801"
+  },
+  {
+    "cttsCode": "A3113",
+    "cttsName": "HLA-B*58:01",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HLAB58"
+  },
+  {
+    "cttsCode": "A6027",
+    "cttsName": "HMG CoA REDUCTASE ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HMGCR"
+  },
+  {
+    "cttsCode": "A425",
+    "cttsName": "HOLTER",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "holter"
+  },
+  {
+    "cttsCode": "A440",
+    "cttsName": "Home Visit Communication",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HV_OLD"
+  },
+  {
+    "cttsCode": "A201",
+    "cttsName": "HOMOCYSTEINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "Homocyst"
+  },
+  {
+    "cttsCode": "A4465",
+    "cttsName": "HTLV I/II ANTIBODY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HTLVAB"
+  },
+  {
+    "cttsCode": "A6029",
+    "cttsName": "HUMAN HERPESVIRUS TYPE 6",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HHV6"
+  },
+  {
+    "cttsCode": "A1050",
+    "cttsName": "HYDATID",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "HYD"
+  },
+  {
+    "cttsCode": "A4447",
+    "cttsName": "IA2 Ab",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IA2"
+  },
+  {
+    "cttsCode": "A6040",
+    "cttsName": "IMMUNOPHENOTYPING BY FLOW CYTOM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IMMFLOW"
+  },
+  {
+    "cttsCode": "A6020",
+    "cttsName": "INFLUENZA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "INFSER"
+  },
+  {
+    "cttsCode": "A5244",
+    "cttsName": "INSULIN-LIKE GROWTH FACTOR 1",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IGF1"
+  },
+  {
+    "cttsCode": "A3001",
+    "cttsName": "INSULIN-LIKE GROWTH FACTOR-BINDING",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IGFBP3"
+  },
+  {
+    "cttsCode": "A6038",
+    "cttsName": "INTERLEUKIN 6",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "INTL6"
+  },
+  {
+    "cttsCode": "A4005",
+    "cttsName": "INTRINSIC FACTOR ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IFA"
+  },
+  {
+    "cttsCode": "A5240",
+    "cttsName": "IONISED CALCIUM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IONICAL"
+  },
+  {
+    "cttsCode": "A4010",
+    "cttsName": "ISLET CELL ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ISLE"
+  },
+  {
+    "cttsCode": "A3003",
+    "cttsName": "JAK2 V617F VARIANT DETECTION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "JAK2"
+  },
+  {
+    "cttsCode": "A1010",
+    "cttsName": "KARYOTYPE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "KARYO"
+  },
+  {
+    "cttsCode": "A4459",
+    "cttsName": "KLEIHAUERTEST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "KLEI"
+  },
+  {
+    "cttsCode": "A5238",
+    "cttsName": "LACTATE REFERRED",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LACREF"
+  },
+  {
+    "cttsCode": "A3107",
+    "cttsName": "LACTOSE INTOLERANCE GENE TESTING",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LACINT"
+  },
+  {
+    "cttsCode": "A1051",
+    "cttsName": "LAMOTRIGINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LAMO"
+  },
+  {
+    "cttsCode": "A150",
+    "cttsName": "late fees",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "$15.0"
+  },
+  {
+    "cttsCode": "A5152",
+    "cttsName": "LBC ONLY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LBCONLY"
+  },
+  {
+    "cttsCode": "A5250",
+    "cttsName": "LBC only",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LBC_OLD"
+  },
+  {
+    "cttsCode": "A1047",
+    "cttsName": "LEAD",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LEAD"
+  },
+  {
+    "cttsCode": "A403",
+    "cttsName": "Legionella Serology",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "Legionella"
+  },
+  {
+    "cttsCode": "A6005",
+    "cttsName": "LEGIONELLA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LEGSER"
+  },
+  {
+    "cttsCode": "A6025",
+    "cttsName": "LEISHMANIA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LEISH"
+  },
+  {
+    "cttsCode": "A5008",
+    "cttsName": "LEPTIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LEPT"
+  },
+  {
+    "cttsCode": "A4455",
+    "cttsName": "LEPTOSPIRA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LEPTO"
+  },
+  {
+    "cttsCode": "A6033",
+    "cttsName": "LEVETIRACETAM LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LEVET"
+  },
+  {
+    "cttsCode": "A1041",
+    "cttsName": "LIPOPROTEIN (A)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LIPO"
+  },
+  {
+    "cttsCode": "A167",
+    "cttsName": "LITHIUM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LIT"
+  },
+  {
+    "cttsCode": "A6143",
+    "cttsName": "LIVER AUTOIMMUNE ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LIVAB"
+  },
+  {
+    "cttsCode": "A5221",
+    "cttsName": "LIVER KIDNEY MICROSOMAL ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LKM"
+  },
+  {
+    "cttsCode": "A5227",
+    "cttsName": "LUPUS ANTICOAGULANT",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LUP"
+  },
+  {
+    "cttsCode": "A6013",
+    "cttsName": "LYME ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "LYME"
+  },
+  {
+    "cttsCode": "A5217",
+    "cttsName": "LYMPHOCYTE MARKERS_FLOW CYTOME",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "FLOW"
+  },
+  {
+    "cttsCode": "A5237",
+    "cttsName": "MALARIAL PARASITES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MP"
+  },
+  {
+    "cttsCode": "A8888",
+    "cttsName": "MANUAL PRICED TEST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MPT"
+  },
+  {
+    "cttsCode": "A1071",
+    "cttsName": "MEASLES PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MEAPCR"
+  },
+  {
+    "cttsCode": "A1046",
+    "cttsName": "MERCURY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MERC"
+  },
+  {
+    "cttsCode": "A1048",
+    "cttsName": "METANEPHRINES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MET"
+  },
+  {
+    "cttsCode": "A6023",
+    "cttsName": "METHOTREXATE LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "METHOT"
+  },
+  {
+    "cttsCode": "A5223",
+    "cttsName": "MITOCHONDRIAL ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MITOAB"
+  },
+  {
+    "cttsCode": "A6132",
+    "cttsName": "MONKEYPOX",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MPOX"
+  },
+  {
+    "cttsCode": "A4473",
+    "cttsName": "MUMPS VIRUS RNA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MUMPPCR"
+  },
+  {
+    "cttsCode": "A1076",
+    "cttsName": "MUSCLE SPECIFIC TYROSINE KINASE AU",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MUSK(Non_MBS)"
+  },
+  {
+    "cttsCode": "A6014",
+    "cttsName": "MYCOPLASMA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MYCO"
+  },
+  {
+    "cttsCode": "A4468",
+    "cttsName": "MYOSITIS ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "MYOS"
+  },
+  {
+    "cttsCode": "A4448",
+    "cttsName": "NEISSERIA CONFIRMATION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "NEISCONF"
+  },
+  {
+    "cttsCode": "A6022",
+    "cttsName": "NEISSERIA GONORRHOEA CONFIRMATIO",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "NGCONFPCR"
+  },
+  {
+    "cttsCode": "A6007",
+    "cttsName": "NEUROMYELITIS OPTICA AB",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "NEUOPT"
+  },
+  {
+    "cttsCode": "A6028",
+    "cttsName": "NEURONE SPEC ENOLASE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "NSE"
+  },
+  {
+    "cttsCode": "A01",
+    "cttsName": "Non-MBS ($1.00)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "$1.0"
+  },
+  {
+    "cttsCode": "A10",
+    "cttsName": "Non-MBS ($10.00)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "$10.0"
+  },
+  {
+    "cttsCode": "A20",
+    "cttsName": "Non-MBS ($20.00)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "$20.0"
+  },
+  {
+    "cttsCode": "A05",
+    "cttsName": "Non-MBS ($5.00)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "$5.0"
+  },
+  {
+    "cttsCode": "A50",
+    "cttsName": "Non-MBS ($50.00)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "$50"
+  },
+  {
+    "cttsCode": "A30",
+    "cttsName": "Non-MBS Test ($30.00)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "$30.0"
+  },
+  {
+    "cttsCode": "A6034",
+    "cttsName": "NORTRIPTYLINE LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "NORT"
+  },
+  {
+    "cttsCode": "A4016",
+    "cttsName": "N TELOPEPTIDE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "NTELO"
+  },
+  {
+    "cttsCode": "A5202",
+    "cttsName": "NT-proBNP",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PROBNP_REF"
+  },
+  {
+    "cttsCode": "A4467",
+    "cttsName": "NUCLEOSOME",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "NUCL"
+  },
+  {
+    "cttsCode": "A3112",
+    "cttsName": "OMEGA-5 GLIADIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "OMEGA5"
+  },
+  {
+    "cttsCode": "A5220",
+    "cttsName": "OSMOLALITY SERUM_PLASMA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SOSMO"
+  },
+  {
+    "cttsCode": "A1040",
+    "cttsName": "OSTASE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "OST"
+  },
+  {
+    "cttsCode": "A3114",
+    "cttsName": "OSTEOCALCIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "OSTCAL"
+  },
+  {
+    "cttsCode": "A4100",
+    "cttsName": "PAPPA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PAPPA"
+  },
+  {
+    "cttsCode": "A205",
+    "cttsName": "Parathyroid Hormone",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "Para"
+  },
+  {
+    "cttsCode": "A4006",
+    "cttsName": "PARIETAL CELL ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PCA"
+  },
+  {
+    "cttsCode": "A5246",
+    "cttsName": "PARVOVIRUS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PARVO"
+  },
+  {
+    "cttsCode": "A5052",
+    "cttsName": "PEMPHIGUS ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PEMPH"
+  },
+  {
+    "cttsCode": "A5239",
+    "cttsName": "PENICILLOYL RAST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "RASTPEN"
+  },
+  {
+    "cttsCode": "A5040",
+    "cttsName": "PERHEXILINE LEVELS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PERHEX"
+  },
+  {
+    "cttsCode": "A5010",
+    "cttsName": "PERINUCLEAR ANTI-NEUTROPHIL CYTOP",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PANCA"
+  },
+  {
+    "cttsCode": "A5005",
+    "cttsName": "PHENOBARBITAL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PHENO"
+  },
+  {
+    "cttsCode": "A6039",
+    "cttsName": "PHOSPHATIDYLETHANOL LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PHETOH"
+  },
+  {
+    "cttsCode": "A5212",
+    "cttsName": "PHOSPHOLIPID ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PHOSAB"
+  },
+  {
+    "cttsCode": "A3010",
+    "cttsName": "PIGEON IgG ANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PIGEAB"
+  },
+  {
+    "cttsCode": "A7005",
+    "cttsName": "PLASMA ACYLCARNITINE PROFILE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PLACCAR"
+  },
+  {
+    "cttsCode": "A7004",
+    "cttsName": "PLASMA AMINO ACIDS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PLAMINO"
+  },
+  {
+    "cttsCode": "A7002",
+    "cttsName": "PNEUMOCOCCAL ANTIBODY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PNEUMAB"
+  },
+  {
+    "cttsCode": "A6001",
+    "cttsName": "PNEUMOCOCCAL ANTIGENS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PNEUMO"
+  },
+  {
+    "cttsCode": "A6144",
+    "cttsName": "PREALBUMIN LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PREALB"
+  },
+  {
+    "cttsCode": "A5236",
+    "cttsName": "PROTEIN C/S",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PROTCS"
+  },
+  {
+    "cttsCode": "A300",
+    "cttsName": "Protein Electrophoresis",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "PEPG"
+  },
+  {
+    "cttsCode": "A6131",
+    "cttsName": "Q FEVER SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "QFEVER"
+  },
+  {
+    "cttsCode": "A6003",
+    "cttsName": "RABIES IgG",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "RABIGG"
+  },
+  {
+    "cttsCode": "A5218",
+    "cttsName": "RED CELL FOLATE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "REDFOL"
+  },
+  {
+    "cttsCode": "A101",
+    "cttsName": "Refl1",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SVP1"
+  },
+  {
+    "cttsCode": "A999",
+    "cttsName": "REFERRED TEST",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "R_OLD"
+  },
+  {
+    "cttsCode": "A9999",
+    "cttsName": "REFERRED TEST PEI",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "REFPEI"
+  },
+  {
+    "cttsCode": "A100",
+    "cttsName": "REFERRED TEST REPORT",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SVP"
+  },
+  {
+    "cttsCode": "A1001",
+    "cttsName": "REFERRED TEST REPORT",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "QML"
+  },
+  {
+    "cttsCode": "A4452",
+    "cttsName": "REVERSE T3(NonMBS)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "RT3"
+  },
+  {
+    "cttsCode": "A6008",
+    "cttsName": "RICKETTSIA SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "RICKET"
+  },
+  {
+    "cttsCode": "A5046",
+    "cttsName": "RIVAROXABAN LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "RIVA"
+  },
+  {
+    "cttsCode": "A404",
+    "cttsName": "Ross River Serology",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "RRS"
+  },
+  {
+    "cttsCode": "A5222",
+    "cttsName": "ROSS RIVER VIRUS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ROSSRIV_SYD"
+  },
+  {
+    "cttsCode": "A6140",
+    "cttsName": "ROSS RIVER VIRUS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "RRV"
+  },
+  {
+    "cttsCode": "A6010",
+    "cttsName": "SALMONELLA SEROTYPING",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SALSERO"
+  },
+  {
+    "cttsCode": "A4453",
+    "cttsName": "SALMONELLA TYPHI SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SALTYPSERO"
+  },
+  {
+    "cttsCode": "A4472",
+    "cttsName": "SARS-CoV-2 IgG",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COV2IGG"
+  },
+  {
+    "cttsCode": "A6130",
+    "cttsName": "SARS CoV-2 SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "COV2SERO"
+  },
+  {
+    "cttsCode": "A6011",
+    "cttsName": "SCHISTOSOMIASIS SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SCHSERO"
+  },
+  {
+    "cttsCode": "A1072",
+    "cttsName": "SELENIUM LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SEL"
+  },
+  {
+    "cttsCode": "A5228",
+    "cttsName": "SELF COLLECT CERVICAL SCREENING",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SCCS"
+  },
+  {
+    "cttsCode": "A6133",
+    "cttsName": "SERUM AMYLOID A",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "AMYLA"
+  },
+  {
+    "cttsCode": "A168",
+    "cttsName": "SERUM IMMUNOGLOBULINS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IGA"
+  },
+  {
+    "cttsCode": "A4014",
+    "cttsName": "SERUM IMMUNOGLOBULINS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IMMUNO"
+  },
+  {
+    "cttsCode": "A5216",
+    "cttsName": "SERUM TISSUE AUTOANTIBODIES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "STISAB"
+  },
+  {
+    "cttsCode": "A160",
+    "cttsName": "SERUM/URINE EPG/IEPG",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SEPG"
+  },
+  {
+    "cttsCode": "A6142",
+    "cttsName": "SICKLE CELL GENOTYPING",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SICKGENO"
+  },
+  {
+    "cttsCode": "A5000",
+    "cttsName": "SKIN BASEMENT MEMBRANE AB",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SBMA"
+  },
+  {
+    "cttsCode": "A429",
+    "cttsName": "Sleep Study",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SS"
+  },
+  {
+    "cttsCode": "A5229",
+    "cttsName": "SMOOTH MUSCLE ANTIBODY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SMOOTH"
+  },
+  {
+    "cttsCode": "A4457",
+    "cttsName": "SNP MICROARRAY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SNP"
+  },
+  {
+    "cttsCode": "A5230",
+    "cttsName": "SOLUBLE LIVER ANTIGEN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SOLUB"
+  },
+  {
+    "cttsCode": "A2600",
+    "cttsName": "SONIC GENETIC PATHOLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SGP"
+  },
+  {
+    "cttsCode": "A5243",
+    "cttsName": "SPECIFIC IgE BEE VENOM",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "IGEBEE"
+  },
+  {
+    "cttsCode": "A428",
+    "cttsName": "Spirometry",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SPI"
+  },
+  {
+    "cttsCode": "A1006",
+    "cttsName": "STRONGYLOIDES SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "STRONG"
+  },
+  {
+    "cttsCode": "A4449",
+    "cttsName": "SYPHILIS PCR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SYPPCR"
+  },
+  {
+    "cttsCode": "A5206",
+    "cttsName": "SYPHILIS SEROLOGY CONFIRMATION",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "SYPHCONF"
+  },
+  {
+    "cttsCode": "A6037",
+    "cttsName": "TACROLIMUS LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TACRO"
+  },
+  {
+    "cttsCode": "A162",
+    "cttsName": "TB - Quantiferon Gold",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TB"
+  },
+  {
+    "cttsCode": "A1007",
+    "cttsName": "TPMT GENOTYPING",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TPMT"
+  },
+  {
+    "cttsCode": "A3100",
+    "cttsName": "TRACE ELEMENTS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TRACE"
+  },
+  {
+    "cttsCode": "A5038",
+    "cttsName": "TRYPTASE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TRYP"
+  },
+  {
+    "cttsCode": "A3101",
+    "cttsName": "TSH RECEPTOR ANTIBODY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TRAB_REF"
+  },
+  {
+    "cttsCode": "A5051",
+    "cttsName": "TSI BIOASSAY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "TSIBIO"
+  },
+  {
+    "cttsCode": "A4456",
+    "cttsName": "URINE 5HIAA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "5HIAAU"
+  },
+  {
+    "cttsCode": "A1075",
+    "cttsName": "URINE CITRATE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UCIT"
+  },
+  {
+    "cttsCode": "A3110",
+    "cttsName": "URINE CITRATE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UCITR"
+  },
+  {
+    "cttsCode": "A5047",
+    "cttsName": "URINE DEOXYPYRIDINOLINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UDPD"
+  },
+  {
+    "cttsCode": "A3104",
+    "cttsName": "URINE DRUG ALCOHOL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UDA"
+  },
+  {
+    "cttsCode": "A5011",
+    "cttsName": "URINE ETHANOL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UETHAN"
+  },
+  {
+    "cttsCode": "A5004",
+    "cttsName": "URINE IODINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UIODINE"
+  },
+  {
+    "cttsCode": "A4052",
+    "cttsName": "URINE LEGIONELLA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ULEGION"
+  },
+  {
+    "cttsCode": "A5248",
+    "cttsName": "URINE LEGIONELLA",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ULEGION_SYDP"
+  },
+  {
+    "cttsCode": "A7000",
+    "cttsName": "URINE METABOLIC SCREEN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UMETAB"
+  },
+  {
+    "cttsCode": "A4444",
+    "cttsName": "URINE METANEPHRINES",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UMET"
+  },
+  {
+    "cttsCode": "A5203",
+    "cttsName": "URINE OSMOLALITY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UOSMO"
+  },
+  {
+    "cttsCode": "A5006",
+    "cttsName": "URINE OXALATE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UOXAL"
+  },
+  {
+    "cttsCode": "A6026",
+    "cttsName": "URINE OXALATE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UROXAL"
+  },
+  {
+    "cttsCode": "A5048",
+    "cttsName": "URINE PHOSPHATE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UPHOS"
+  },
+  {
+    "cttsCode": "A6042",
+    "cttsName": "URINE SEROTONIN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "USEROT"
+  },
+  {
+    "cttsCode": "A3105",
+    "cttsName": "URINE TRACE ELEMENTS",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "UTRACE"
+  },
+  {
+    "cttsCode": "A4458",
+    "cttsName": "VANILLYL MANDELIC ACID URINE",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VMA"
+  },
+  {
+    "cttsCode": "A414",
+    "cttsName": "Varicella Zoster Virus",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "V1"
+  },
+  {
+    "cttsCode": "A1003",
+    "cttsName": "VITAMIN A LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VITA"
+  },
+  {
+    "cttsCode": "A1000",
+    "cttsName": "VITAMIN B1 LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VITB1"
+  },
+  {
+    "cttsCode": "A6035",
+    "cttsName": "VITAMIN B2 LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VITB2"
+  },
+  {
+    "cttsCode": "A1002",
+    "cttsName": "VITAMIN B6 LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VITB6"
+  },
+  {
+    "cttsCode": "A1070",
+    "cttsName": "VITAMIN C",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VITC"
+  },
+  {
+    "cttsCode": "A4445",
+    "cttsName": "VITAMIN E",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VITE"
+  },
+  {
+    "cttsCode": "A4446",
+    "cttsName": "VITAMIN K(nonMBS)",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VITK"
+  },
+  {
+    "cttsCode": "A430",
+    "cttsName": "VitDN",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VitD11"
+  },
+  {
+    "cttsCode": "A120",
+    "cttsName": "Vit D - No Clinical Notes",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VitD1"
+  },
+  {
+    "cttsCode": "A1068",
+    "cttsName": "VON WILLEBRAND FACTOR",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "VWF"
+  },
+  {
+    "cttsCode": "A4454",
+    "cttsName": "ZIKA VIRUS SEROLOGY",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ZIKA"
+  },
+  {
+    "cttsCode": "A4000",
+    "cttsName": "ZINC LEVEL",
+    "ctdepName": "(A) REFERRED TESTS",
+    "cttsSynonym": "ZINC"
+  },
+  {
+    "cttsCode": "B065",
+    "cttsName": "24-HOUR URINARY PROTEIN",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UPROT"
+  },
+  {
+    "cttsCode": "B004",
+    "cttsName": "Albumin",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "ALB"
+  },
+  {
+    "cttsCode": "B011",
+    "cttsName": "Alkaline Phosphate",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "ALP"
+  },
+  {
+    "cttsCode": "B018",
+    "cttsName": "AMYLASE",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "AMS"
+  },
+  {
+    "cttsCode": "B041",
+    "cttsName": "ANION GAP",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "AGAP"
+  },
+  {
+    "cttsCode": "B660",
+    "cttsName": "Apolipoprotein B",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "APOB"
+  },
+  {
+    "cttsCode": "B015",
+    "cttsName": "Calcium",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "CA"
+  },
+  {
+    "cttsCode": "B210",
+    "cttsName": "Calcium (Cal)",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "CAC"
+  },
+  {
+    "cttsCode": "B052",
+    "cttsName": "CARDIAC ENZYMES",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "CE"
+  },
+  {
+    "cttsCode": "B019",
+    "cttsName": "Cholesterol",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "Chol"
+  },
+  {
+    "cttsCode": "B022",
+    "cttsName": "Chol/Trig",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LIP"
+  },
+  {
+    "cttsCode": "B013",
+    "cttsName": "Creatinine",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "Creat"
+  },
+  {
+    "cttsCode": "B026",
+    "cttsName": "Creatinine Clearance Test",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UCCT"
+  },
+  {
+    "cttsCode": "B014",
+    "cttsName": "CREATININE KINASE",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "CK"
+  },
+  {
+    "cttsCode": "B037",
+    "cttsName": "DIGOXIN",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "DIG"
+  },
+  {
+    "cttsCode": "B038",
+    "cttsName": "Dilantil",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "PHY"
+  },
+  {
+    "cttsCode": "B600",
+    "cttsName": "eGFR",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "GFR"
+  },
+  {
+    "cttsCode": "B036",
+    "cttsName": "Electrolytes",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "ELEC"
+  },
+  {
+    "cttsCode": "B028",
+    "cttsName": "Electrolytes Urea Creatinine",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "EUC"
+  },
+  {
+    "cttsCode": "B040",
+    "cttsName": "EPILIM",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "VPA"
+  },
+  {
+    "cttsCode": "B031",
+    "cttsName": "FERRITIN",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "Fer"
+  },
+  {
+    "cttsCode": "B630",
+    "cttsName": "Glucose",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "GLUCSF"
+  },
+  {
+    "cttsCode": "B002",
+    "cttsName": "Glucose (F)",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "GLUf"
+  },
+  {
+    "cttsCode": "B001",
+    "cttsName": "Glucose (R)",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "GLUr"
+  },
+  {
+    "cttsCode": "B006",
+    "cttsName": "Glucose Tolerance Test",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "GTT"
+  },
+  {
+    "cttsCode": "B008",
+    "cttsName": "GTT-Preg",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "GTTPREG"
+  },
+  {
+    "cttsCode": "B033",
+    "cttsName": "HAEMOGLOBIN A1c (HbA1c)",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "HbA1C"
+  },
+  {
+    "cttsCode": "B021",
+    "cttsName": "HDL-Cholestrol",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "HDL"
+  },
+  {
+    "cttsCode": "B045",
+    "cttsName": "INSULIN",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "INS"
+  },
+  {
+    "cttsCode": "B030",
+    "cttsName": "IRON STUDIES",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "IS"
+  },
+  {
+    "cttsCode": "B650",
+    "cttsName": "Lactate",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LAC"
+  },
+  {
+    "cttsCode": "B051",
+    "cttsName": "LDH",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LDH"
+  },
+  {
+    "cttsCode": "B048",
+    "cttsName": "LIPASE",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LIPA"
+  },
+  {
+    "cttsCode": "B025",
+    "cttsName": "Lipid Studies (HDL)",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LIPS"
+  },
+  {
+    "cttsCode": "B665",
+    "cttsName": "Lipoprotein A",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LIPOA"
+  },
+  {
+    "cttsCode": "B420",
+    "cttsName": "Lips",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LIPS1"
+  },
+  {
+    "cttsCode": "B010",
+    "cttsName": "Liver Function Test",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "LFT"
+  },
+  {
+    "cttsCode": "B017",
+    "cttsName": "MAGNESIUM",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "MG"
+  },
+  {
+    "cttsCode": "B200",
+    "cttsName": "MBA",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "MBAn"
+  },
+  {
+    "cttsCode": "B112",
+    "cttsName": "Mico-Albumin(urine)",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "MA24"
+  },
+  {
+    "cttsCode": "B003",
+    "cttsName": "MICRO-ALBUMIN (URINE)",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "mALB"
+  },
+  {
+    "cttsCode": "B620",
+    "cttsName": "Na Excretion ratio",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "NAEX"
+  },
+  {
+    "cttsCode": "B800",
+    "cttsName": "NT PRO B-NATRIURETIC PEPTIDE",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "NTBNP"
+  },
+  {
+    "cttsCode": "B016",
+    "cttsName": "Phosphate",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "PO4"
+  },
+  {
+    "cttsCode": "B110",
+    "cttsName": "Post Prandial",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "PP"
+  },
+  {
+    "cttsCode": "B640",
+    "cttsName": "Protein",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "PROCSF"
+  },
+  {
+    "cttsCode": "B113",
+    "cttsName": "Protein Asp.",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "PROT"
+  },
+  {
+    "cttsCode": "B300",
+    "cttsName": "Protein Electrophoresis",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "PEPG_XXX"
+  },
+  {
+    "cttsCode": "B999",
+    "cttsName": "Sample Deficency",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UnB"
+  },
+  {
+    "cttsCode": "B610",
+    "cttsName": "Serum Creatinine Clearance",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "SCCL"
+  },
+  {
+    "cttsCode": "B220",
+    "cttsName": "T-Bili",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "TBILI"
+  },
+  {
+    "cttsCode": "B039",
+    "cttsName": "TEGRETOL",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "CAR"
+  },
+  {
+    "cttsCode": "B005",
+    "cttsName": "Total Protein",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "TP"
+  },
+  {
+    "cttsCode": "B020",
+    "cttsName": "Triglycerides",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "TG"
+  },
+  {
+    "cttsCode": "B049",
+    "cttsName": "Troponin",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "TnI"
+  },
+  {
+    "cttsCode": "B012",
+    "cttsName": "Urea",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "BUN"
+  },
+  {
+    "cttsCode": "B023",
+    "cttsName": "Uric Acid",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "U/A"
+  },
+  {
+    "cttsCode": "B062",
+    "cttsName": "Urinary Calcium",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UCA"
+  },
+  {
+    "cttsCode": "B061",
+    "cttsName": "Urinary Creatinine",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UCR"
+  },
+  {
+    "cttsCode": "B060",
+    "cttsName": "Urinary Electrolytes",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UE"
+  },
+  {
+    "cttsCode": "B063",
+    "cttsName": "Urinary Phosphate",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UPO4"
+  },
+  {
+    "cttsCode": "B064",
+    "cttsName": "Urinary Uric Acid",
+    "ctdepName": "BIOCHEMISTRY",
+    "cttsSynonym": "UUA"
+  },
+  {
+    "cttsCode": "G900",
+    "cttsName": "Additional Report",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "ADDITIONAL"
+  },
+  {
+    "cttsCode": "G998",
+    "cttsName": "CYT-ASL (Fiji)",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "CASL"
+  },
+  {
+    "cttsCode": "G030",
+    "cttsName": "Cyto (Discharge)",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "NCYT"
+  },
+  {
+    "cttsCode": "G060",
+    "cttsName": "Cyto (Gastric Juice)",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "CYTGJ"
+  },
+  {
+    "cttsCode": "G020",
+    "cttsName": "Cyto (Washings)",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "NGCYT"
+  },
+  {
+    "cttsCode": "G070",
+    "cttsName": "FNA",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "FNA"
+  },
+  {
+    "cttsCode": "G999",
+    "cttsName": "QAP",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "QAP"
+  },
+  {
+    "cttsCode": "G980",
+    "cttsName": "Thin PAP (Billing)",
+    "ctdepName": "CYTOLOGY",
+    "cttsSynonym": "THINB"
+  },
+  {
+    "cttsCode": "D040",
+    "cttsName": "ADD-ON TEST REQUEST",
+    "ctdepName": "DATA ENTRY_ADMIN",
+    "cttsSynonym": "ADDON"
+  },
+  {
+    "cttsCode": "D051",
+    "cttsName": "INCORRECT PATIENT DECLARATION",
+    "ctdepName": "DATA ENTRY_ADMIN",
+    "cttsSynonym": "IPD"
+  },
+  {
+    "cttsCode": "D020",
+    "cttsName": "Miss Match",
+    "ctdepName": "DATA ENTRY_ADMIN",
+    "cttsSynonym": "MM"
+  },
+  {
+    "cttsCode": "D030",
+    "cttsName": "No Test",
+    "ctdepName": "DATA ENTRY_ADMIN",
+    "cttsSynonym": "NT"
+  },
+  {
+    "cttsCode": "D060",
+    "cttsName": "PRIVATE HOME VISIT",
+    "ctdepName": "DATA ENTRY_ADMIN",
+    "cttsSynonym": "HV"
+  },
+  {
+    "cttsCode": "D999",
+    "cttsName": "Send Away Deficiency",
+    "ctdepName": "DATA ENTRY_ADMIN",
+    "cttsSynonym": "SD"
+  },
+  {
+    "cttsCode": "D010",
+    "cttsName": "Unlabelled",
+    "ctdepName": "DATA ENTRY_ADMIN",
+    "cttsSynonym": "UL"
+  },
+  {
+    "cttsCode": "E016",
+    "cttsName": "Active B12",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "AB12"
+  },
+  {
+    "cttsCode": "E023",
+    "cttsName": "AFP (Tumour Marker)",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "aFP(TM)"
+  },
+  {
+    "cttsCode": "E150",
+    "cttsName": "AMH",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "AMH_OLD"
+  },
+  {
+    "cttsCode": "E151",
+    "cttsName": "AMH",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "AMH"
+  },
+  {
+    "cttsCode": "E100",
+    "cttsName": "CA-125",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "CA125"
+  },
+  {
+    "cttsCode": "E750",
+    "cttsName": "CA 19-9",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "CA199"
+  },
+  {
+    "cttsCode": "E022",
+    "cttsName": "CARCINOEMBRYONIC ANTIGEN (CEA)",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "CEA"
+  },
+  {
+    "cttsCode": "E090",
+    "cttsName": "Cortisol",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "Cortisol"
+  },
+  {
+    "cttsCode": "E230",
+    "cttsName": "DHEA-S",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "DHEAS"
+  },
+  {
+    "cttsCode": "E015",
+    "cttsName": "FOLATE",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "FOL"
+  },
+  {
+    "cttsCode": "E210",
+    "cttsName": "Folate N",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "FOLN"
+  },
+  {
+    "cttsCode": "E013",
+    "cttsName": "Follicle Stimulating Hormone",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "FSH"
+  },
+  {
+    "cttsCode": "E027",
+    "cttsName": "FREE ANDROGEN INDEX",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "FAI"
+  },
+  {
+    "cttsCode": "E050",
+    "cttsName": "Free T3",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "FT3"
+  },
+  {
+    "cttsCode": "E005",
+    "cttsName": "Free T4",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "FT4"
+  },
+  {
+    "cttsCode": "E028",
+    "cttsName": "FREE TESTOSTERONE",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "FREETES"
+  },
+  {
+    "cttsCode": "E130",
+    "cttsName": "Intestinal Enzyes",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "dis"
+  },
+  {
+    "cttsCode": "E012",
+    "cttsName": "Luteinizing Hormone",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "LH"
+  },
+  {
+    "cttsCode": "E019",
+    "cttsName": "Oestradiol",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "E2"
+  },
+  {
+    "cttsCode": "E140",
+    "cttsName": "PARATHYROID HORMONE",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "PTH"
+  },
+  {
+    "cttsCode": "E003",
+    "cttsName": "Pregnancy Test ( Quantitative)",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "QBHCG"
+  },
+  {
+    "cttsCode": "E031",
+    "cttsName": "Pregnancy Test ( Quantitative)",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "EBHCG"
+  },
+  {
+    "cttsCode": "E118",
+    "cttsName": "PROGESTERONE",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "PROG"
+  },
+  {
+    "cttsCode": "E018",
+    "cttsName": "Progestrone",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "Prog_DXI"
+  },
+  {
+    "cttsCode": "E010",
+    "cttsName": "PROLACTIN",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "PROL"
+  },
+  {
+    "cttsCode": "E021",
+    "cttsName": "PROSTATE SPECIFIC ANTIGEN",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "PSA"
+  },
+  {
+    "cttsCode": "E110",
+    "cttsName": "PSAt",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "PSAT"
+  },
+  {
+    "cttsCode": "E020",
+    "cttsName": "TESTOSTERONE",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "TESTO"
+  },
+  {
+    "cttsCode": "E007",
+    "cttsName": "THYROID ANTIBODIES",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "THAB"
+  },
+  {
+    "cttsCode": "E008",
+    "cttsName": "THYROID FUNCTION TEST (Serum)",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "TFT"
+  },
+  {
+    "cttsCode": "E040",
+    "cttsName": "THYROID RECEPTOR ANTIBODIES",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "TRAB"
+  },
+  {
+    "cttsCode": "E006",
+    "cttsName": "THYROID STIMULATING HORMONE",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "TSH"
+  },
+  {
+    "cttsCode": "E011",
+    "cttsName": "TPO",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "TPO"
+  },
+  {
+    "cttsCode": "E091",
+    "cttsName": "Urine Cortisol",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "UCORT"
+  },
+  {
+    "cttsCode": "E002",
+    "cttsName": "URINE PREGNANCY TEST",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "UCG"
+  },
+  {
+    "cttsCode": "E014",
+    "cttsName": "VITAMIN B12",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "B12"
+  },
+  {
+    "cttsCode": "E120",
+    "cttsName": "Vitamin D",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "VITD_BECK"
+  },
+  {
+    "cttsCode": "E121",
+    "cttsName": "VITAMIN D",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "VITD"
+  },
+  {
+    "cttsCode": "E220",
+    "cttsName": "VITDN",
+    "ctdepName": "ENDOCRINOLOGY",
+    "cttsSynonym": "VITDN"
+  },
+  {
+    "cttsCode": "P002",
+    "cttsName": "NATA",
+    "ctdepName": "EPISODE INITIATION",
+    "cttsSynonym": "NATA"
+  },
+  {
+    "cttsCode": "P001",
+    "cttsName": "Reported By:",
+    "ctdepName": "EPISODE INITIATION",
+    "cttsSynonym": "RB"
+  },
+  {
+    "cttsCode": "P999",
+    "cttsName": "SPECIMEN ERROR",
+    "ctdepName": "EPISODE INITIATION",
+    "cttsSynonym": "SPE"
+  },
+  {
+    "cttsCode": "H210",
+    "cttsName": "ANTIBODY SCREEN",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "ABS"
+  },
+  {
+    "cttsCode": "H011",
+    "cttsName": "aPTT",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "APTT"
+  },
+  {
+    "cttsCode": "H012",
+    "cttsName": "Bleeding Time",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "BT"
+  },
+  {
+    "cttsCode": "H200",
+    "cttsName": "BLOOD GROUP",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "BG"
+  },
+  {
+    "cttsCode": "H220",
+    "cttsName": "BLOOD GROUP AND ANTIBODY SCREEN",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "BGABS"
+  },
+  {
+    "cttsCode": "H013",
+    "cttsName": "Cloting Time",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "CT"
+  },
+  {
+    "cttsCode": "H017",
+    "cttsName": "COAGULATION STUDIES",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "CS"
+  },
+  {
+    "cttsCode": "H030",
+    "cttsName": "Direct Coombs Test",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "CMBS"
+  },
+  {
+    "cttsCode": "H007",
+    "cttsName": "ESR",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "ESR"
+  },
+  {
+    "cttsCode": "H060",
+    "cttsName": "Fibrinogen",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "FIB"
+  },
+  {
+    "cttsCode": "H008",
+    "cttsName": "Full Blood Examination (no ESR)",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "FBC"
+  },
+  {
+    "cttsCode": "H014",
+    "cttsName": "Haematocrit",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "HCT"
+  },
+  {
+    "cttsCode": "H006",
+    "cttsName": "Haemoglobin",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "HB"
+  },
+  {
+    "cttsCode": "H025",
+    "cttsName": "Hb-EPG-HAEMOGLOBIN ELECTROPHORE",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "Hb-EPG"
+  },
+  {
+    "cttsCode": "H002",
+    "cttsName": "INFECTIOUS MONONUCLEOSIS",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "IM"
+  },
+  {
+    "cttsCode": "H005",
+    "cttsName": "Malaria Parasites",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "xxx_MP"
+  },
+  {
+    "cttsCode": "H000",
+    "cttsName": "NATA Accreditation - GOLD COAST",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "NATAG"
+  },
+  {
+    "cttsCode": "H010",
+    "cttsName": "Platelet Count",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "PLAT"
+  },
+  {
+    "cttsCode": "H003",
+    "cttsName": "Prothrobin Ratio",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "PR"
+  },
+  {
+    "cttsCode": "H050",
+    "cttsName": "Prothrombin Time - INR",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "INR"
+  },
+  {
+    "cttsCode": "H004",
+    "cttsName": "RETICULOCYTE COUNT",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "RETIC"
+  },
+  {
+    "cttsCode": "H070",
+    "cttsName": "Thrombin Time",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "TT"
+  },
+  {
+    "cttsCode": "H100",
+    "cttsName": "Unsuitable Sample",
+    "ctdepName": "HAEMATOLOGY",
+    "cttsSynonym": "un"
+  },
+  {
+    "cttsCode": "R030",
+    "cttsName": "Histo Conclusion",
+    "ctdepName": "HISTOPATHOLOGY",
+    "cttsSynonym": "HC"
+  },
+  {
+    "cttsCode": "R010",
+    "cttsName": "HISTOPATHOLOGY",
+    "ctdepName": "HISTOPATHOLOGY",
+    "cttsSynonym": "HISTO"
+  },
+  {
+    "cttsCode": "R090",
+    "cttsName": "Record & Patient Traceability of Histo Sample",
+    "ctdepName": "HISTOPATHOLOGY",
+    "cttsSynonym": "TRAC"
+  },
+  {
+    "cttsCode": "R080",
+    "cttsName": "Skin Cancer",
+    "ctdepName": "HISTOPATHOLOGY",
+    "cttsSynonym": "SKAUDIT"
+  },
+  {
+    "cttsCode": "R040",
+    "cttsName": "Skin Histo",
+    "ctdepName": "HISTOPATHOLOGY",
+    "cttsSynonym": "SH"
+  },
+  {
+    "cttsCode": "R015",
+    "cttsName": "Supplementry Report",
+    "ctdepName": "HISTOPATHOLOGY",
+    "cttsSynonym": "SUP"
+  },
+  {
+    "cttsCode": "I326",
+    "cttsName": "Allergens",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "Allergy"
+  },
+  {
+    "cttsCode": "I325",
+    "cttsName": "Allergy Test",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "ALG"
+  },
+  {
+    "cttsCode": "I080",
+    "cttsName": "ANTI-NUCLEAR ANTIBODIES",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "ANA"
+  },
+  {
+    "cttsCode": "I042",
+    "cttsName": "ASOT",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "ASOT_xxx"
+  },
+  {
+    "cttsCode": "I091",
+    "cttsName": "ATYPICAL PNEUMONIA",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "Legion"
+  },
+  {
+    "cttsCode": "I341",
+    "cttsName": "Bordetella PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "BDPCR"
+  },
+  {
+    "cttsCode": "I290",
+    "cttsName": "CHLAM_GONO PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "CHNG"
+  },
+  {
+    "cttsCode": "I270",
+    "cttsName": "Chlamydia PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "CH"
+  },
+  {
+    "cttsCode": "I022",
+    "cttsName": "CMV Serology",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "CMV"
+  },
+  {
+    "cttsCode": "I406",
+    "cttsName": "Coronavirus PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "WCOVID"
+  },
+  {
+    "cttsCode": "I407",
+    "cttsName": "Coronavirus PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "COVIDT"
+  },
+  {
+    "cttsCode": "I405",
+    "cttsName": "COVID-19 Antigen",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "COVIDAG"
+  },
+  {
+    "cttsCode": "I401",
+    "cttsName": "COVID Serology",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "COVIDSERO"
+  },
+  {
+    "cttsCode": "I402",
+    "cttsName": "COVID Serology",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "COVTS"
+  },
+  {
+    "cttsCode": "I041",
+    "cttsName": "C-REACTIVE PROTEIN",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "CRP"
+  },
+  {
+    "cttsCode": "I408",
+    "cttsName": "CYCLIC CITRULLINATED PEPTIDE ANTIBO",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "CCP"
+  },
+  {
+    "cttsCode": "I099",
+    "cttsName": "D-DIMER (QUANTITATIVE)",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "DDQ"
+  },
+  {
+    "cttsCode": "I086",
+    "cttsName": "ds DNA Antibody",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "DNA"
+  },
+  {
+    "cttsCode": "I019",
+    "cttsName": "EBV",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "EBV"
+  },
+  {
+    "cttsCode": "I090",
+    "cttsName": "ENA",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "ENA"
+  },
+  {
+    "cttsCode": "I0511",
+    "cttsName": "FLU PCR (QUATION ONLY)",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "WFLUPCR"
+  },
+  {
+    "cttsCode": "I098",
+    "cttsName": "Gliadin",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "GLIA"
+  },
+  {
+    "cttsCode": "I231",
+    "cttsName": "HAV Ab",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HAV"
+  },
+  {
+    "cttsCode": "I239",
+    "cttsName": "HBcAb",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HBcAb"
+  },
+  {
+    "cttsCode": "I241",
+    "cttsName": "HBc IgM",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HBcIgM"
+  },
+  {
+    "cttsCode": "I245",
+    "cttsName": "HBeAb",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "xxxHBeAb"
+  },
+  {
+    "cttsCode": "I237",
+    "cttsName": "HBsAb - HEPATITIS SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HBsAb"
+  },
+  {
+    "cttsCode": "I250",
+    "cttsName": "Helicobacter pylori antigen",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HPSA"
+  },
+  {
+    "cttsCode": "I035",
+    "cttsName": "HELICOBACTER PYLORI SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HPYL"
+  },
+  {
+    "cttsCode": "I235",
+    "cttsName": "HEPATITIS B SURFACE ANTIGEN",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HBsAg"
+  },
+  {
+    "cttsCode": "I247",
+    "cttsName": "HEPATITIS C SEROLOGY - HCV Ab",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HCV"
+  },
+  {
+    "cttsCode": "I220",
+    "cttsName": "Hep BsAg confirmatory",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HSVP"
+  },
+  {
+    "cttsCode": "I260",
+    "cttsName": "HIV SEROLOGY SCREEN",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "HIV"
+  },
+  {
+    "cttsCode": "I320",
+    "cttsName": "Immediate Hypersensitivity Skin Test",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "SKT"
+  },
+  {
+    "cttsCode": "I060",
+    "cttsName": "Immunoglobulin A (IgA)",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "Ig A_xxx"
+  },
+  {
+    "cttsCode": "I055",
+    "cttsName": "Immunoglobulin G (IgG)",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "Ig G"
+  },
+  {
+    "cttsCode": "I065",
+    "cttsName": "Immunoglobulin M (IgM)",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "Ig M"
+  },
+  {
+    "cttsCode": "I070",
+    "cttsName": "Immunoglobulins",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "IgG/A/M"
+  },
+  {
+    "cttsCode": "I360",
+    "cttsName": "MEASLES SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "MEA"
+  },
+  {
+    "cttsCode": "I999",
+    "cttsName": "Mis",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "Uni"
+  },
+  {
+    "cttsCode": "I370",
+    "cttsName": "MUMPS SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "MUM"
+  },
+  {
+    "cttsCode": "I280",
+    "cttsName": "N Gonorrhoea PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "NG"
+  },
+  {
+    "cttsCode": "I350",
+    "cttsName": "PY BREATH TEST",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "UBT"
+  },
+  {
+    "cttsCode": "I330",
+    "cttsName": "Rapid FLU Test",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "INFLU"
+  },
+  {
+    "cttsCode": "I105",
+    "cttsName": "RAST",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "RAST"
+  },
+  {
+    "cttsCode": "I051",
+    "cttsName": "RESPIRATORY PATHOGENS PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "FLUPCR"
+  },
+  {
+    "cttsCode": "I040",
+    "cttsName": "RHEUMATOID FACTOR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "RF"
+  },
+  {
+    "cttsCode": "I029",
+    "cttsName": "RUBELLA IgG SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "RubG"
+  },
+  {
+    "cttsCode": "I400",
+    "cttsName": "SARS-CoV-2 (CORONAVIRUS) PCR",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "COVID"
+  },
+  {
+    "cttsCode": "I920",
+    "cttsName": "SKT billing",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "SKTbilling"
+  },
+  {
+    "cttsCode": "I043",
+    "cttsName": "SYPHILIS SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "RPR"
+  },
+  {
+    "cttsCode": "I048",
+    "cttsName": "Syphilis TP",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "OLD_SYTP"
+  },
+  {
+    "cttsCode": "I049",
+    "cttsName": "Syphilis TP",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "SYTP"
+  },
+  {
+    "cttsCode": "I100",
+    "cttsName": "TOTAL IgE",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "IGE"
+  },
+  {
+    "cttsCode": "I025",
+    "cttsName": "TOXOPLASMA SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "Toxo"
+  },
+  {
+    "cttsCode": "I044",
+    "cttsName": "TPHA",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "TPHA"
+  },
+  {
+    "cttsCode": "I300",
+    "cttsName": "VARICELLA-ZOSTER (VZ) SEROLOGY",
+    "ctdepName": "IMMUNOLOGY",
+    "cttsSynonym": "V"
+  },
+  {
+    "cttsCode": "M001",
+    "cttsName": "ASPIRATE EXAMINATION",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "SF"
+  },
+  {
+    "cttsCode": "M050",
+    "cttsName": "BLOOD CULTURE",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "BC"
+  },
+  {
+    "cttsCode": "M080",
+    "cttsName": "Colonscope Sterility Testing",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "CST"
+  },
+  {
+    "cttsCode": "M400",
+    "cttsName": "FAECAL CALPROTECTIN",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "FCALP"
+  },
+  {
+    "cttsCode": "M010",
+    "cttsName": "Faecal Enteric bacterial PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "FBPCR"
+  },
+  {
+    "cttsCode": "M006",
+    "cttsName": "FAECAL EXAMINATION (OVA CYST AND P",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "OCP"
+  },
+  {
+    "cttsCode": "M003",
+    "cttsName": "Faecal Parasite PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "OCPCR"
+  },
+  {
+    "cttsCode": "M120",
+    "cttsName": "FAECAL PATHOGENS PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "FCPCR"
+  },
+  {
+    "cttsCode": "M031",
+    "cttsName": "Faecal Virus",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "RVPCR"
+  },
+  {
+    "cttsCode": "M004",
+    "cttsName": "FAECES MICRO AND CULTURE",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "FAEC"
+  },
+  {
+    "cttsCode": "M091",
+    "cttsName": "Fungal PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MYCPCR"
+  },
+  {
+    "cttsCode": "M045",
+    "cttsName": "Gastric Juice",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "GJ"
+  },
+  {
+    "cttsCode": "M008",
+    "cttsName": "GENITAL SWAB EXAMINATION - Vaginal/ Ur",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MCS2"
+  },
+  {
+    "cttsCode": "M065",
+    "cttsName": "Gram stain",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "GS"
+  },
+  {
+    "cttsCode": "M330",
+    "cttsName": "HEPATIS B DNA VIRAL LOAD",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "HEPBDNA"
+  },
+  {
+    "cttsCode": "M331",
+    "cttsName": "HEPATITIS C RNA VIRAL LOAD",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "HEPCRNA"
+  },
+  {
+    "cttsCode": "M332",
+    "cttsName": "HPV PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "HPVPCR"
+  },
+  {
+    "cttsCode": "M026",
+    "cttsName": "HSV PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "HSV"
+  },
+  {
+    "cttsCode": "M009",
+    "cttsName": "MICROBIOLOGICAL EXAMINATION (PUS/D",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MCS"
+  },
+  {
+    "cttsCode": "M998",
+    "cttsName": "Micro Sample",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MS"
+  },
+  {
+    "cttsCode": "M019",
+    "cttsName": "Micro Urine",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "UMCS2"
+  },
+  {
+    "cttsCode": "M130",
+    "cttsName": "Micro Urine",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "UMCS4"
+  },
+  {
+    "cttsCode": "M110",
+    "cttsName": "MRSA",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MRSA"
+  },
+  {
+    "cttsCode": "M014",
+    "cttsName": "Mycology",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MYCOLOGY"
+  },
+  {
+    "cttsCode": "M015",
+    "cttsName": "Mycology Culture",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MYCOCULT"
+  },
+  {
+    "cttsCode": "M055",
+    "cttsName": "OCCULT BLOOD",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "OBH"
+  },
+  {
+    "cttsCode": "M090",
+    "cttsName": "OCP-Slide",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "OCPS"
+  },
+  {
+    "cttsCode": "M018",
+    "cttsName": "Post Vasectomy",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "PVSEMEN"
+  },
+  {
+    "cttsCode": "M999",
+    "cttsName": "Problem Sample",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "UN"
+  },
+  {
+    "cttsCode": "M030",
+    "cttsName": "Semen Culture",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "SC"
+  },
+  {
+    "cttsCode": "M141",
+    "cttsName": "Seminal Analysis",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "SEMEN"
+  },
+  {
+    "cttsCode": "M070",
+    "cttsName": "Spore Test",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "SP"
+  },
+  {
+    "cttsCode": "M011",
+    "cttsName": "SPUTUM CULTURE",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "Sputum"
+  },
+  {
+    "cttsCode": "M007",
+    "cttsName": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "MCS1"
+  },
+  {
+    "cttsCode": "M025",
+    "cttsName": "Urine",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "micro-only"
+  },
+  {
+    "cttsCode": "M135",
+    "cttsName": "URINE MCS",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "UMCS"
+  },
+  {
+    "cttsCode": "M040",
+    "cttsName": "URINE MICROSCOPY",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "UM"
+  },
+  {
+    "cttsCode": "M041",
+    "cttsName": "Urine Stones",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "ST"
+  },
+  {
+    "cttsCode": "M028",
+    "cttsName": "UROGENITAL PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "URIMYC"
+  },
+  {
+    "cttsCode": "M024",
+    "cttsName": "VAGINOSIS PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "VPCR"
+  },
+  {
+    "cttsCode": "M027",
+    "cttsName": "VZV PCR",
+    "ctdepName": "MICROBIOLOGY",
+    "cttsSynonym": "VZV"
+  },
+  {
+    "cttsCode": "S114",
+    "cttsName": "Non Medicare Billing",
+    "ctdepName": "(S) REFERRED TESTS",
+    "cttsSynonym": "PrivateBills"
+  },
+  {
+    "cttsCode": "S1000",
+    "cttsName": "REFERRAL LAB PATIENT CHARGE",
+    "ctdepName": "(S) REFERRED TESTS",
+    "cttsSynonym": "RLPC"
+  },
+  {
+    "cttsCode": "S000",
+    "cttsName": "REFERRED TEST",
+    "ctdepName": "(S) REFERRED TESTS",
+    "cttsSynonym": "R"
+  },
+  {
+    "cttsCode": "T430",
+    "cttsName": "Drug of Abuse Screen",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "DAS"
+  },
+  {
+    "cttsCode": "T420",
+    "cttsName": "Morphine",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "Morph"
+  },
+  {
+    "cttsCode": "T999",
+    "cttsName": "Sample Deficency",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "UnT"
+  },
+  {
+    "cttsCode": "T450",
+    "cttsName": "Urine Buprenorphine",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "BUPR"
+  },
+  {
+    "cttsCode": "T410",
+    "cttsName": "URINE DRUGS",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "DRGO"
+  },
+  {
+    "cttsCode": "T411",
+    "cttsName": "Urine Drugs (Billing)",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "U/Drgo"
+  },
+  {
+    "cttsCode": "T440",
+    "cttsName": "Urine Drug Screen",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "UDS"
+  },
+  {
+    "cttsCode": "T400",
+    "cttsName": "Urine Drugs of Abuse Screen",
+    "ctdepName": "TOXICOLOGY",
+    "cttsSynonym": "DATP"
+  }
+]
