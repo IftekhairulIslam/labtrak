@@ -1,7 +1,8 @@
-import { useState, useRef, useEffect, useCallback } from 'react'
+import { useState, useRef, useEffect } from 'react'
 import { useQuery } from '@tanstack/react-query'
 import { getPreEntryTestSets } from '../services/testService'
 import type { PreEntryTestCode } from '../types/preEntryTestCode'
+import type { PreEntryPracticeRequest } from '../types/preEntryPractice'
 
 function matchInput(item: PreEntryTestCode, input: string): boolean {
   const q = input.trim().toLowerCase()
@@ -35,16 +36,13 @@ export function PreEntryPractice() {
     queryFn: getPreEntryTestSets,
   })
 
-  const currentSet = sets[setIndex] ?? []
-  const currentCompleted = currentSet.filter((item) =>
+  const currentRequest: PreEntryPracticeRequest | undefined = sets[setIndex]
+  const currentTests = currentRequest?.tests ?? []
+  const currentCompleted = currentTests.filter((item) =>
     completedIds.has(`${item.cttsCode}-${item.cttsSynonym}`)
   )
-  const allCurrentDone = currentSet.length > 0 && currentCompleted.length === currentSet.length
+  const allCurrentDone = currentTests.length > 0 && currentCompleted.length === currentTests.length
   const allSetsDone = sets.length > 0 && setIndex >= sets.length - 1 && allCurrentDone
-
-  const focusInput = useCallback(() => {
-    inputRef.current?.focus()
-  }, [])
 
   useEffect(() => {
     if (allCurrentDone && setIndex < sets.length - 1) {
@@ -63,8 +61,8 @@ export function PreEntryPractice() {
     if (e.key !== 'Tab') return
     e.preventDefault()
     const q = input.trim()
-    if (!q || currentSet.length === 0) return
-    const matched = currentSet.find(
+    if (!q || currentTests.length === 0) return
+    const matched = currentTests.find(
       (item) =>
         !completedIds.has(`${item.cttsCode}-${item.cttsSynonym}`) && matchInput(item, q)
     )
@@ -108,7 +106,7 @@ export function PreEntryPractice() {
       {/* Progress */}
       <div className="flex flex-wrap items-center gap-3 text-sm text-slate-600">
         <span>
-          Set {setIndex + 1} of {sets.length}
+          Request {setIndex + 1} of {sets.length}
         </span>
         {startTime != null && (
           <span>
@@ -122,13 +120,25 @@ export function PreEntryPractice() {
         )}
       </div>
 
+      {/* Current request header */}
+      {currentRequest && (
+        <section className="rounded-lg border border-slate-200 bg-white p-4 shadow-sm" aria-label="Request details">
+          <p className="font-mono text-xs text-slate-500">{currentRequest.requestId}</p>
+          <h2 className="mt-1 text-lg font-semibold text-slate-800">{currentRequest.requestName}</h2>
+          <p className="mt-0.5 text-sm text-slate-600">{currentRequest.requestType}</p>
+          {currentRequest.clinicalNotes && (
+            <p className="mt-2 text-sm italic text-slate-500">{currentRequest.clinicalNotes}</p>
+          )}
+        </section>
+      )}
+
       {/* Current set list */}
-      <section aria-label="Current set">
+      <section aria-label="Tests to complete">
         <p className="mb-2 text-sm font-medium text-slate-600">
           Type code or synonym and press Tab to mark as done.
         </p>
         <ul className="space-y-1.5 rounded-lg border border-slate-200 bg-white p-3 shadow-sm">
-          {currentSet.map((item) => {
+          {currentTests.map((item) => {
             const id = `${item.cttsCode}-${item.cttsSynonym}`
             const done = completedIds.has(id)
             return (
@@ -195,7 +205,7 @@ export function PreEntryPractice() {
               setStartTime(null)
               setEndTime(null)
               setInput('')
-              focusInput()
+              inputRef.current?.focus()
             }}
             className="mt-3 rounded-lg bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700"
           >
