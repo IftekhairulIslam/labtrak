@@ -1,46 +1,51 @@
-import { useMemo, useState } from 'react'
-import { useQuery } from '@tanstack/react-query'
-import { getPreEntryTestCodes } from '../services/testService'
-import type { PreEntryTestCode } from '../types/preEntryTestCode'
+import { useMemo, useState } from "react";
+import { useQuery } from "@tanstack/react-query";
+import { getPreEntryTestCodes } from "../services/testService";
+import type { PreEntryTestCode } from "../types/preEntryTestCode";
 
 function matchSearch(item: PreEntryTestCode, q: string): boolean {
-  if (!q.trim()) return true
-  const lower = q.toLowerCase()
+  if (!q.trim()) return true;
+  const lower = q.toLowerCase();
   return (
-    item.cttsCode.toLowerCase().includes(lower) ||
-    item.cttsName.toLowerCase().includes(lower) ||
-    item.ctdepName.toLowerCase().includes(lower) ||
-    item.cttsSynonym.toLowerCase().includes(lower)
-  )
+    item.code.toLowerCase().includes(lower) ||
+    item.name.toLowerCase().includes(lower) ||
+    item.depName.toLowerCase().includes(lower) ||
+    item.synonym.toLowerCase().includes(lower)
+  );
 }
 
 export function PreEntryTestList() {
-  const [search, setSearch] = useState('')
+  const [search, setSearch] = useState("");
 
-  const { data: items = [], isLoading, isError, error } = useQuery({
-    queryKey: ['preEntryTestCodes'],
+  const {
+    data: items = [],
+    isLoading,
+    isError,
+    error,
+  } = useQuery({
+    queryKey: ["preEntryTestCodes"],
     queryFn: getPreEntryTestCodes,
-  })
+  });
 
   const filtered = useMemo(
     () => items.filter((item) => matchSearch(item, search)),
-    [items, search]
-  )
+    [items, search],
+  );
 
   if (isLoading) {
     return (
       <div className="flex min-h-[200px] items-center justify-center text-slate-500">
         Loading test codes…
       </div>
-    )
+    );
   }
 
   if (isError) {
     return (
       <div className="rounded-lg bg-red-50 p-4 text-red-700">
-        Error: {error instanceof Error ? error.message : 'Failed to load'}
+        Error: {error instanceof Error ? error.message : "Failed to load"}
       </div>
-    )
+    );
   }
 
   return (
@@ -62,25 +67,27 @@ export function PreEntryTestList() {
       <ul className="divide-y divide-slate-200 rounded-lg border border-slate-200 bg-white shadow-sm">
         {filtered.map((item) => (
           <li
-            key={`${item.cttsCode}-${item.cttsSynonym}`}
+            key={`${item.code}-${item.synonym}`}
             className="flex flex-wrap items-center gap-x-4 gap-y-1 px-4 py-3 text-slate-700 hover:bg-slate-50"
           >
             <span className="font-mono text-sm font-medium text-sky-600">
-              {item.cttsCode}
+              {item.code}
             </span>
-            <span className="font-medium">{item.cttsName}</span>
-            <span className="text-slate-500">{item.ctdepName}</span>
-            {item.cttsSynonym && (
+            <span className="font-medium">{item.name}</span>
+            <span className="text-slate-500">{item.depName}</span>
+            {item.synonym && (
               <span className="rounded bg-slate-100 px-2 py-0.5 text-xs text-slate-600">
-                {item.cttsSynonym}
+                {item.synonym}
               </span>
             )}
           </li>
         ))}
       </ul>
       {filtered.length === 0 && (
-        <p className="py-8 text-center text-slate-500">No tests match your search.</p>
+        <p className="py-8 text-center text-slate-500">
+          No tests match your search.
+        </p>
       )}
     </div>
-  )
+  );
 }

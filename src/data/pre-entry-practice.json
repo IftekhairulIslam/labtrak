@@ -6,46 +6,46 @@
     "clinicalNotes": "Annual physical examination, patient asymptomatic",
     "tests": [
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "B028",
-        "cttsName": "Electrolytes Urea Creatinine",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "EUC"
+        "code": "B028",
+        "name": "Electrolytes Urea Creatinine",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "EUC"
       },
       {
-        "cttsCode": "B600",
-        "cttsName": "eGFR",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GFR"
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
       },
       {
-        "cttsCode": "B010",
-        "cttsName": "Liver Function Test",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "LFT"
+        "code": "B010",
+        "name": "Liver Function Test",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LFT"
       },
       {
-        "cttsCode": "B022",
-        "cttsName": "Chol/Trig",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "LIPS"
+        "code": "B022",
+        "name": "Chol/Trig",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LIPS"
       },
       {
-        "cttsCode": "B033",
-        "cttsName": "HAEMOGLOBIN A1c (HbA1c)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "HbA1C"
+        "code": "B033",
+        "name": "HAEMOGLOBIN A1c (HbA1c)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "HbA1C"
       },
       {
-        "cttsCode": "E006",
-        "cttsName": "THYROID STIMULATING HORMONE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "TSH"
+        "code": "E006",
+        "name": "THYROID STIMULATING HORMONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "TSH"
       }
     ]
   },
@@ -56,40 +56,40 @@
     "clinicalNotes": "Type 2 diabetes follow-up, on metformin",
     "tests": [
       {
-        "cttsCode": "B033",
-        "cttsName": "HAEMOGLOBIN A1c (HbA1c)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "HbA1C"
+        "code": "B033",
+        "name": "HAEMOGLOBIN A1c (HbA1c)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "HbA1C"
       },
       {
-        "cttsCode": "B002",
-        "cttsName": "Glucose (F)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GLUf"
+        "code": "B002",
+        "name": "Glucose (F)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GLUf"
       },
       {
-        "cttsCode": "B028",
-        "cttsName": "Electrolytes Urea Creatinine",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "EUC"
+        "code": "B028",
+        "name": "Electrolytes Urea Creatinine",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "EUC"
       },
       {
-        "cttsCode": "B600",
-        "cttsName": "eGFR",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GFR"
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
       },
       {
-        "cttsCode": "B022",
-        "cttsName": "Chol/Trig (HDL/LDL)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "LIPS"
+        "code": "B022",
+        "name": "Chol/Trig (HDL/LDL)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LIPS"
       },
       {
-        "cttsCode": "B003",
-        "cttsName": "MICRO-ALBUMIN (URINE)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "mALB"
+        "code": "B003",
+        "name": "MICRO-ALBUMIN (URINE)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "mALB"
       }
     ]
   },
@@ -100,28 +100,28 @@
     "clinicalNotes": "Fatigue, weight gain, cold intolerance",
     "tests": [
       {
-        "cttsCode": "E006",
-        "cttsName": "THYROID STIMULATING HORMONE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "TSH"
+        "code": "E006",
+        "name": "THYROID STIMULATING HORMONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "TSH"
       },
       {
-        "cttsCode": "E005",
-        "cttsName": "Free T4",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "FT4"
+        "code": "E005",
+        "name": "Free T4",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FT4"
       },
       {
-        "cttsCode": "E050",
-        "cttsName": "Free T3",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "FT3"
+        "code": "E050",
+        "name": "Free T3",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FT3"
       },
       {
-        "cttsCode": "E007",
-        "cttsName": "THYROID ANTIBODIES",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "THAB"
+        "code": "E007",
+        "name": "THYROID ANTIBODIES",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "THAB"
       }
     ]
   },
@@ -132,40 +132,40 @@
     "clinicalNotes": "Fatigue, pallor, SOB on exertion",
     "tests": [
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "B030",
-        "cttsName": "IRON STUDIES",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "IS"
+        "code": "B030",
+        "name": "IRON STUDIES",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "IS"
       },
       {
-        "cttsCode": "B031",
-        "cttsName": "FERRITIN",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "Fer"
+        "code": "B031",
+        "name": "FERRITIN",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "Fer"
       },
       {
-        "cttsCode": "E014",
-        "cttsName": "VITAMIN B12",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "B12"
+        "code": "E014",
+        "name": "VITAMIN B12",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "B12"
       },
       {
-        "cttsCode": "E015",
-        "cttsName": "FOLATE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "FOL"
+        "code": "E015",
+        "name": "FOLATE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FOL"
       },
       {
-        "cttsCode": "H004",
-        "cttsName": "RETICULOCYTE COUNT",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "RETIC"
+        "code": "H004",
+        "name": "RETICULOCYTE COUNT",
+        "depName": "HAEMATOLOGY",
+        "synonym": "RETIC"
       }
     ]
   },
@@ -176,34 +176,34 @@
     "clinicalNotes": "Elevated liver enzymes on previous test, history of alcohol use",
     "tests": [
       {
-        "cttsCode": "B010",
-        "cttsName": "Liver Function Test",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "LFT"
+        "code": "B010",
+        "name": "Liver Function Test",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LFT"
       },
       {
-        "cttsCode": "B300",
-        "cttsName": "Protein Electrophoresis",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "PEPG_XXX"
+        "code": "B300",
+        "name": "Protein Electrophoresis",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "PEPG_XXX"
       },
       {
-        "cttsCode": "I235",
-        "cttsName": "HEPATITIS B SURFACE ANTIGEN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HBsAg"
+        "code": "I235",
+        "name": "HEPATITIS B SURFACE ANTIGEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAg"
       },
       {
-        "cttsCode": "I247",
-        "cttsName": "HEPATITIS C SEROLOGY - HCV Ab",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HCV"
+        "code": "I247",
+        "name": "HEPATITIS C SEROLOGY - HCV Ab",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HCV"
       },
       {
-        "cttsCode": "B600",
-        "cttsName": "eGFR",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GFR"
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
       }
     ]
   },
@@ -214,28 +214,28 @@
     "clinicalNotes": "Family history of heart disease, patient is 55yo male, hypertensive",
     "tests": [
       {
-        "cttsCode": "B022",
-        "cttsName": "Chol/Trig/HDL-Cholestrol/Triglycerides",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "LIPS"
+        "code": "B022",
+        "name": "Chol/Trig/HDL-Cholestrol/Triglycerides",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LIPS"
       },
       {
-        "cttsCode": "B002",
-        "cttsName": "Glucose (F)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GLUf"
+        "code": "B002",
+        "name": "Glucose (F)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GLUf"
       },
       {
-        "cttsCode": "B033",
-        "cttsName": "HAEMOGLOBIN A1c (HbA1c)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "HbA1C"
+        "code": "B033",
+        "name": "HAEMOGLOBIN A1c (HbA1c)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "HbA1C"
       },
       {
-        "cttsCode": "I041",
-        "cttsName": "C-REACTIVE PROTEIN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "CRP"
+        "code": "I041",
+        "name": "C-REACTIVE PROTEIN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "CRP"
       }
     ]
   },
@@ -246,28 +246,28 @@
     "clinicalNotes": "Suspected pregnancy, missed period",
     "tests": [
       {
-        "cttsCode": "E003",
-        "cttsName": "Pregnancy Test ( Quantitative)",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "QBHCG"
+        "code": "E003",
+        "name": "Pregnancy Test ( Quantitative)",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "QBHCG"
       },
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "H200",
-        "cttsName": "BLOOD GROUP",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "BG"
+        "code": "H200",
+        "name": "BLOOD GROUP",
+        "depName": "HAEMATOLOGY",
+        "synonym": "BG"
       },
       {
-        "cttsCode": "I029",
-        "cttsName": "RUBELLA IgG SEROLOGY",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "RubG"
+        "code": "I029",
+        "name": "RUBELLA IgG SEROLOGY",
+        "depName": "IMMUNOLOGY",
+        "synonym": "RubG"
       }
     ]
   },
@@ -278,34 +278,34 @@
     "clinicalNotes": "Routine sexual health check, new partner",
     "tests": [
       {
-        "cttsCode": "M028",
-        "cttsName": "CHLAMYDIA PCR/CHLAM_GONO PCR",
-        "ctdepName": "(A) REFERRED TESTS",
-        "cttsSynonym": "URINEYC"
+        "code": "M028",
+        "name": "CHLAMYDIA PCR/CHLAM_GONO PCR",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "URINEYC"
       },
       {
-        "cttsCode": "I260",
-        "cttsName": "HIV SEROLOGY SCREEN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HIV"
+        "code": "I260",
+        "name": "HIV SEROLOGY SCREEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HIV"
       },
       {
-        "cttsCode": "I235",
-        "cttsName": "HEPATITIS B SURFACE ANTIGEN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HBsAg"
+        "code": "I235",
+        "name": "HEPATITIS B SURFACE ANTIGEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAg"
       },
       {
-        "cttsCode": "I247",
-        "cttsName": "HEPATITIS C SEROLOGY - HCV Ab",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HCV"
+        "code": "I247",
+        "name": "HEPATITIS C SEROLOGY - HCV Ab",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HCV"
       },
       {
-        "cttsCode": "I043",
-        "cttsName": "SYPHILIS SEROLOGY/VDRL",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "SYTP"
+        "code": "I043",
+        "name": "SYPHILIS SEROLOGY/VDRL",
+        "depName": "IMMUNOLOGY",
+        "synonym": "SYTP"
       }
     ]
   },
@@ -316,16 +316,16 @@
     "clinicalNotes": "Dysuria, frequency, urgency. ?UTI",
     "tests": [
       {
-        "cttsCode": "M135",
-        "cttsName": "URINE MCS",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "UMCS"
+        "code": "M135",
+        "name": "URINE MCS",
+        "depName": "MICROBIOLOGY",
+        "synonym": "UMCS"
       },
       {
-        "cttsCode": "M040",
-        "cttsName": "URINE MICROSCOPY",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "UM"
+        "code": "M040",
+        "name": "URINE MICROSCOPY",
+        "depName": "MICROBIOLOGY",
+        "synonym": "UM"
       }
     ]
   },
@@ -336,22 +336,22 @@
     "clinicalNotes": "Diarrhea x 3 days, recent travel to Bali",
     "tests": [
       {
-        "cttsCode": "M004",
-        "cttsName": "FAECES MICRO AND CULTURE",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "FAEC"
+        "code": "M004",
+        "name": "FAECES MICRO AND CULTURE",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FAEC"
       },
       {
-        "cttsCode": "M003",
-        "cttsName": "Faecal Parasite PCR",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "OCPCR"
+        "code": "M003",
+        "name": "Faecal Parasite PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "OCPCR"
       },
       {
-        "cttsCode": "M120",
-        "cttsName": "FAECAL PATHOGENS PCR",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "FCPCR"
+        "code": "M120",
+        "name": "FAECAL PATHOGENS PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FCPCR"
       }
     ]
   },
@@ -362,34 +362,34 @@
     "clinicalNotes": "Known Crohn's disease, assess disease activity",
     "tests": [
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "H007",
-        "cttsName": "ESR",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "ESR"
+        "code": "H007",
+        "name": "ESR",
+        "depName": "HAEMATOLOGY",
+        "synonym": "ESR"
       },
       {
-        "cttsCode": "I041",
-        "cttsName": "C-REACTIVE PROTEIN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "CRP"
+        "code": "I041",
+        "name": "C-REACTIVE PROTEIN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "CRP"
       },
       {
-        "cttsCode": "M400",
-        "cttsName": "FAECAL CALPROTECTIN",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "FCALP"
+        "code": "M400",
+        "name": "FAECAL CALPROTECTIN",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FCALP"
       },
       {
-        "cttsCode": "B004",
-        "cttsName": "Albumin",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "ALB"
+        "code": "B004",
+        "name": "Albumin",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "ALB"
       }
     ]
   },
@@ -400,28 +400,28 @@
     "clinicalNotes": "Pre-op for elective surgery",
     "tests": [
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "H050",
-        "cttsName": "Prothrombin Time - INR",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "INR"
+        "code": "H050",
+        "name": "Prothrombin Time - INR",
+        "depName": "HAEMATOLOGY",
+        "synonym": "INR"
       },
       {
-        "cttsCode": "H011",
-        "cttsName": "aPTT",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "APTT"
+        "code": "H011",
+        "name": "aPTT",
+        "depName": "HAEMATOLOGY",
+        "synonym": "CS"
       },
       {
-        "cttsCode": "H200",
-        "cttsName": "BLOOD GROUP",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "BG"
+        "code": "H200",
+        "name": "BLOOD GROUP",
+        "depName": "HAEMATOLOGY",
+        "synonym": "BG"
       }
     ]
   },
@@ -432,10 +432,10 @@
     "clinicalNotes": "On warfarin for AF, routine monitoring",
     "tests": [
       {
-        "cttsCode": "H050",
-        "cttsName": "Prothrombin Time - INR",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "INR"
+        "code": "H050",
+        "name": "Prothrombin Time - INR",
+        "depName": "HAEMATOLOGY",
+        "synonym": "INR"
       }
     ]
   },
@@ -446,40 +446,40 @@
     "clinicalNotes": "Polyarthralgia, morning stiffness, swelling of small joints",
     "tests": [
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "H007",
-        "cttsName": "ESR",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "ESR"
+        "code": "H007",
+        "name": "ESR",
+        "depName": "HAEMATOLOGY",
+        "synonym": "ESR"
       },
       {
-        "cttsCode": "I041",
-        "cttsName": "C-REACTIVE PROTEIN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "CRP"
+        "code": "I041",
+        "name": "C-REACTIVE PROTEIN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "CRP"
       },
       {
-        "cttsCode": "I040",
-        "cttsName": "RHEUMATOID FACTOR",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "RF"
+        "code": "I040",
+        "name": "RHEUMATOID FACTOR",
+        "depName": "IMMUNOLOGY",
+        "synonym": "RF"
       },
       {
-        "cttsCode": "I408",
-        "cttsName": "CYCLIC CITRULLINATED PEPTIDE ANTIBO",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "CCP"
+        "code": "I408",
+        "name": "CYCLIC CITRULLINATED PEPTIDE ANTIBO",
+        "depName": "IMMUNOLOGY",
+        "synonym": "CCP"
       },
       {
-        "cttsCode": "I080",
-        "cttsName": "ANTI-NUCLEAR ANTIBODIES",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "ANA"
+        "code": "I080",
+        "name": "ANTI-NUCLEAR ANTIBODIES",
+        "depName": "IMMUNOLOGY",
+        "synonym": "ANA"
       }
     ]
   },
@@ -490,40 +490,40 @@
     "clinicalNotes": "Fatigue, joint pain, rash, ?SLE",
     "tests": [
       {
-        "cttsCode": "I080",
-        "cttsName": "ANTI-NUCLEAR ANTIBODIES",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "ANA"
+        "code": "I080",
+        "name": "ANTI-NUCLEAR ANTIBODIES",
+        "depName": "IMMUNOLOGY",
+        "synonym": "ANA"
       },
       {
-        "cttsCode": "I090",
-        "cttsName": "ENA",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "ENA"
+        "code": "I090",
+        "name": "ENA",
+        "depName": "IMMUNOLOGY",
+        "synonym": "ENA"
       },
       {
-        "cttsCode": "I086",
-        "cttsName": "ds DNA Antibody",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "DNA"
+        "code": "I086",
+        "name": "ds DNA Antibody",
+        "depName": "IMMUNOLOGY",
+        "synonym": "DNA"
       },
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "H007",
-        "cttsName": "ESR",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "ESR"
+        "code": "H007",
+        "name": "ESR",
+        "depName": "HAEMATOLOGY",
+        "synonym": "ESR"
       },
       {
-        "cttsCode": "I041",
-        "cttsName": "C-REACTIVE PROTEIN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "CRP"
+        "code": "I041",
+        "name": "C-REACTIVE PROTEIN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "CRP"
       }
     ]
   },
@@ -534,22 +534,22 @@
     "clinicalNotes": "Chronic diarrhea, weight loss, bloating",
     "tests": [
       {
-        "cttsCode": "A3109",
-        "cttsName": "COELIAC SEROLOGY/GLUTEN AG & AB",
-        "ctdepName": "(A) REFERRED TESTS",
-        "cttsSynonym": "GLIA"
+        "code": "A3109",
+        "name": "COELIAC SEROLOGY/GLUTEN AG & AB",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "GLIA"
       },
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "B030",
-        "cttsName": "IRON STUDIES",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "IS"
+        "code": "B030",
+        "name": "IRON STUDIES",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "IS"
       }
     ]
   },
@@ -560,40 +560,40 @@
     "clinicalNotes": "Post-menopausal woman, assess bone health",
     "tests": [
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CA"
+        "code": "B015",
+        "name": "Calcium",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CA"
       },
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium Crr",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CAC"
+        "code": "B015",
+        "name": "Calcium Crr",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CAC"
       },
       {
-        "cttsCode": "B016",
-        "cttsName": "Phosphate",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "PO4"
+        "code": "B016",
+        "name": "Phosphate",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "PO4"
       },
       {
-        "cttsCode": "B011",
-        "cttsName": "Alkaline Phosphate",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "ALP"
+        "code": "B011",
+        "name": "Alkaline Phosphate",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "ALP"
       },
       {
-        "cttsCode": "E121",
-        "cttsName": "VITAMIN D",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "VITD"
+        "code": "E121",
+        "name": "VITAMIN D",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "VITD"
       },
       {
-        "cttsCode": "E140",
-        "cttsName": "PARATHYROID HORMONE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "PTH"
+        "code": "E140",
+        "name": "PARATHYROID HORMONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "PTH"
       }
     ]
   },
@@ -604,10 +604,10 @@
     "clinicalNotes": "50yo male, family history of prostate cancer",
     "tests": [
       {
-        "cttsCode": "E021",
-        "cttsName": "PROSTATE SPECIFIC ANTIGEN",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "PSA"
+        "code": "E021",
+        "name": "PROSTATE SPECIFIC ANTIGEN",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "PSA"
       }
     ]
   },
@@ -618,46 +618,46 @@
     "clinicalNotes": "Difficulty conceiving, assess ovarian reserve",
     "tests": [
       {
-        "cttsCode": "E013",
-        "cttsName": "Follicle Stimulating Hormone",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "FSH"
+        "code": "E013",
+        "name": "Follicle Stimulating Hormone",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FSH"
       },
       {
-        "cttsCode": "E012",
-        "cttsName": "Luteinizing Hormone",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "LH"
+        "code": "E012",
+        "name": "Luteinizing Hormone",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "LH"
       },
       {
-        "cttsCode": "E019",
-        "cttsName": "Oestradiol",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "E2"
+        "code": "E019",
+        "name": "Oestradiol",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "E2"
       },
       {
-        "cttsCode": "E118",
-        "cttsName": "PROGESTERONE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "PROG"
+        "code": "E118",
+        "name": "PROGESTERONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "PROG"
       },
       {
-        "cttsCode": "E151",
-        "cttsName": "AMH",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "AMH"
+        "code": "E151",
+        "name": "AMH",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "AMH"
       },
       {
-        "cttsCode": "E006",
-        "cttsName": "THYROID STIMULATING HORMONE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "TSH"
+        "code": "E006",
+        "name": "THYROID STIMULATING HORMONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "TSH"
       },
       {
-        "cttsCode": "E010",
-        "cttsName": "PROLACTIN",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "PROL"
+        "code": "E010",
+        "name": "PROLACTIN",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "PROL"
       }
     ]
   },
@@ -668,34 +668,34 @@
     "clinicalNotes": "Low libido, fatigue, erectile dysfunction",
     "tests": [
       {
-        "cttsCode": "E020",
-        "cttsName": "TESTOSTERONE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "TESTO"
+        "code": "E020",
+        "name": "TESTOSTERONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "TESTO"
       },
       {
-        "cttsCode": "E027",
-        "cttsName": "FREE ANDROGEN INDEX",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "FAI"
+        "code": "E027",
+        "name": "FREE ANDROGEN INDEX",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FAI"
       },
       {
-        "cttsCode": "E013",
-        "cttsName": "Follicle Stimulating Hormone",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "FSH"
+        "code": "E013",
+        "name": "Follicle Stimulating Hormone",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FSH"
       },
       {
-        "cttsCode": "E012",
-        "cttsName": "Luteinizing Hormone",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "LH"
+        "code": "E012",
+        "name": "Luteinizing Hormone",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "LH"
       },
       {
-        "cttsCode": "E010",
-        "cttsName": "PROLACTIN",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "PROL"
+        "code": "E010",
+        "name": "PROLACTIN",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "PROL"
       }
     ]
   },
@@ -706,10 +706,10 @@
     "clinicalNotes": "Fever, cough, SOB, close contact with COVID+ case",
     "tests": [
       {
-        "cttsCode": "I400",
-        "cttsName": "SARS-CoV-2 (CORONAVIRUS) PCR",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "COVID"
+        "code": "I400",
+        "name": "SARS-CoV-2 (CORONAVIRUS) PCR",
+        "depName": "IMMUNOLOGY",
+        "synonym": "COVID"
       }
     ]
   },
@@ -720,16 +720,16 @@
     "clinicalNotes": "URTI symptoms, fever, cough",
     "tests": [
       {
-        "cttsCode": "I051",
-        "cttsName": "RESPIRATORY PATHOGENS PCR",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "FLUPCR"
+        "code": "I051",
+        "name": "RESPIRATORY PATHOGENS PCR",
+        "depName": "IMMUNOLOGY",
+        "synonym": "FLUPCR"
       },
       {
-        "cttsCode": "I400",
-        "cttsName": "SARS-CoV-2 (CORONAVIRUS) PCR",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "COVID"
+        "code": "I400",
+        "name": "SARS-CoV-2 (CORONAVIRUS) PCR",
+        "depName": "IMMUNOLOGY",
+        "synonym": "COVID"
       }
     ]
   },
@@ -740,10 +740,10 @@
     "clinicalNotes": "Infected surgical wound, purulent discharge",
     "tests": [
       {
-        "cttsCode": "M009",
-        "cttsName": "MICROBIOLOGICAL EXAMINATION (PUS/D",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "MCS"
+        "code": "M009",
+        "name": "MICROBIOLOGICAL EXAMINATION (PUS/D",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS"
       }
     ]
   },
@@ -754,40 +754,40 @@
     "clinicalNotes": "Fever, hypotension, tachycardia, ?sepsis",
     "tests": [
       {
-        "cttsCode": "M050",
-        "cttsName": "BLOOD CULTURE",
-        "ctdepName": "MICROBIOLOGY",
-        "cttsSynonym": "BC"
+        "code": "M050",
+        "name": "BLOOD CULTURE",
+        "depName": "MICROBIOLOGY",
+        "synonym": "BC"
       },
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "I041",
-        "cttsName": "C-REACTIVE PROTEIN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "CRP"
+        "code": "I041",
+        "name": "C-REACTIVE PROTEIN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "CRP"
       },
       {
-        "cttsCode": "B028",
-        "cttsName": "Electrolytes Urea Creatinine",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "EUC"
+        "code": "B028",
+        "name": "Electrolytes Urea Creatinine",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "EUC"
       },
       {
-        "cttsCode": "B600",
-        "cttsName": "eGFR",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GFR"
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
       },
       {
-        "cttsCode": "B010",
-        "cttsName": "Liver Function Test",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "LFT"
+        "code": "B010",
+        "name": "Liver Function Test",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LFT"
       }
     ]
   },
@@ -798,34 +798,34 @@
     "clinicalNotes": "Acute monoarthritis 1st MTP joint, ?gout",
     "tests": [
       {
-        "cttsCode": "B023",
-        "cttsName": "Uric Acid(U/A)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "UA"
+        "code": "B023",
+        "name": "Uric Acid(U/A)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "UA"
       },
       {
-        "cttsCode": "B028",
-        "cttsName": "Electrolytes Urea Creatinine",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "EUC"
+        "code": "B028",
+        "name": "Electrolytes Urea Creatinine",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "EUC"
       },
       {
-        "cttsCode": "B600",
-        "cttsName": "eGFR",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GFR"
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
       },
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "H007",
-        "cttsName": "ESR",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "ESR"
+        "code": "H007",
+        "name": "ESR",
+        "depName": "HAEMATOLOGY",
+        "synonym": "ESR"
       }
     ]
   },
@@ -836,28 +836,28 @@
     "clinicalNotes": "Fatigue, muscle weakness, limited sun exposure",
     "tests": [
       {
-        "cttsCode": "E121",
-        "cttsName": "VITAMIN D",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "VITD"
+        "code": "E121",
+        "name": "VITAMIN D",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "VITD"
       },
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CA"
+        "code": "B015",
+        "name": "Calcium",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CA"
       },
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium Crr",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CAC"
+        "code": "B015",
+        "name": "Calcium Crr",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CAC"
       },
       {
-        "cttsCode": "B016",
-        "cttsName": "Phosphate",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "PO4"
+        "code": "B016",
+        "name": "Phosphate",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "PO4"
       }
     ]
   },
@@ -868,40 +868,40 @@
     "clinicalNotes": "Vomiting and diarrhea x 2 days, dehydration",
     "tests": [
       {
-        "cttsCode": "B028",
-        "cttsName": "Electrolytes Urea Creatinine",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "EUC"
+        "code": "B028",
+        "name": "Electrolytes Urea Creatinine",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "EUC"
       },
       {
-        "cttsCode": "B600",
-        "cttsName": "eGFR",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GFR"
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
       },
       {
-        "cttsCode": "B017",
-        "cttsName": "MAGNESIUM",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "MG"
+        "code": "B017",
+        "name": "MAGNESIUM",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "MG"
       },
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CA"
+        "code": "B015",
+        "name": "Calcium",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CA"
       },
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium Crr",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CAC"
+        "code": "B015",
+        "name": "Calcium Crr",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CAC"
       },
       {
-        "cttsCode": "B016",
-        "cttsName": "Phosphate",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "PO4"
+        "code": "B016",
+        "name": "Phosphate",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "PO4"
       }
     ]
   },
@@ -912,34 +912,34 @@
     "clinicalNotes": "Healthcare worker, occupational health screen",
     "tests": [
       {
-        "cttsCode": "I235",
-        "cttsName": "HEPATITIS B SURFACE ANTIGEN",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HBsAg"
+        "code": "I235",
+        "name": "HEPATITIS B SURFACE ANTIGEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAg"
       },
       {
-        "cttsCode": "I237",
-        "cttsName": "HBsAb - HEPATITIS SEROLOGY",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HBsAb"
+        "code": "I237",
+        "name": "HBsAb - HEPATITIS SEROLOGY",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAb"
       },
       {
-        "cttsCode": "I239",
-        "cttsName": "HBcAb",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HBcAb"
+        "code": "I239",
+        "name": "HBcAb",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBcAb"
       },
       {
-        "cttsCode": "I247",
-        "cttsName": "HEPATITIS C SEROLOGY - HCV Ab",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HCV"
+        "code": "I247",
+        "name": "HEPATITIS C SEROLOGY - HCV Ab",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HCV"
       },
       {
-        "cttsCode": "I231",
-        "cttsName": "HAV Ab",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "HAV"
+        "code": "I231",
+        "name": "HAV Ab",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HAV"
       }
     ]
   },
@@ -950,28 +950,28 @@
     "clinicalNotes": "Sore throat, fever, fatigue, lymphadenopathy",
     "tests": [
       {
-        "cttsCode": "H002",
-        "cttsName": "INFECTIOUS MONONUCLEOSIS",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "IM"
+        "code": "H002",
+        "name": "INFECTIOUS MONONUCLEOSIS",
+        "depName": "HAEMATOLOGY",
+        "synonym": "IM"
       },
       {
-        "cttsCode": "I019",
-        "cttsName": "EBV",
-        "ctdepName": "IMMUNOLOGY",
-        "cttsSynonym": "EBV"
+        "code": "I019",
+        "name": "EBV",
+        "depName": "IMMUNOLOGY",
+        "synonym": "EBV"
       },
       {
-        "cttsCode": "H008",
-        "cttsName": "Full Blood Examination (no ESR)",
-        "ctdepName": "HAEMATOLOGY",
-        "cttsSynonym": "FBC"
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
       },
       {
-        "cttsCode": "B010",
-        "cttsName": "Liver Function Test",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "LFT"
+        "code": "B010",
+        "name": "Liver Function Test",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LFT"
       }
     ]
   },
@@ -982,46 +982,46 @@
     "clinicalNotes": "Known CKD stage 3, routine monitoring",
     "tests": [
       {
-        "cttsCode": "B028",
-        "cttsName": "Electrolytes Urea Creatinine",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "EUC"
+        "code": "B028",
+        "name": "Electrolytes Urea Creatinine",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "EUC"
       },
       {
-        "cttsCode": "B600",
-        "cttsName": "eGFR",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "GFR"
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
       },
       {
-        "cttsCode": "B003",
-        "cttsName": "MICRO-ALBUMIN (URINE)",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "mALB"
+        "code": "B003",
+        "name": "MICRO-ALBUMIN (URINE)",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "mALB"
       },
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CA"
+        "code": "B015",
+        "name": "Calcium",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CA"
       },
       {
-        "cttsCode": "B015",
-        "cttsName": "Calcium Crr",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "CAC"
+        "code": "B015",
+        "name": "Calcium Crr",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CAC"
       },
       {
-        "cttsCode": "B016",
-        "cttsName": "Phosphate",
-        "ctdepName": "BIOCHEMISTRY",
-        "cttsSynonym": "PO4"
+        "code": "B016",
+        "name": "Phosphate",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "PO4"
       },
       {
-        "cttsCode": "E140",
-        "cttsName": "PARATHYROID HORMONE",
-        "ctdepName": "ENDOCRINOLOGY",
-        "cttsSynonym": "PTH"
+        "code": "E140",
+        "name": "PARATHYROID HORMONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "PTH"
       }
     ]
   }
