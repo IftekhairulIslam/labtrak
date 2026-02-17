@@ -7,7 +7,7 @@
     "tests": [
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -133,7 +133,7 @@
     "tests": [
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -253,7 +253,7 @@
       },
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -363,7 +363,7 @@
     "tests": [
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -401,7 +401,7 @@
     "tests": [
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -447,7 +447,7 @@
     "tests": [
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -509,7 +509,7 @@
       },
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -541,7 +541,7 @@
       },
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -761,7 +761,7 @@
       },
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -817,7 +817,7 @@
       },
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },
@@ -963,7 +963,7 @@
       },
       {
         "code": "H008",
-        "name": "Full Blood Examination (no ESR)",
+        "name": "Full Blood Examination",
         "depName": "HAEMATOLOGY",
         "synonym": "FBC"
       },

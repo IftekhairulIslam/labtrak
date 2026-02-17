@@ -7,12 +7,7 @@ import type { PreEntryPracticeRequest } from "../types/preEntryPractice";
 function matchInput(item: PreEntryTestCode, input: string): boolean {
   const q = input.trim().toLowerCase();
   if (!q) return false;
-  return (
-    item.code.toLowerCase() === q ||
-    item.synonym.toLowerCase() === q ||
-    item.code.toLowerCase().includes(q) ||
-    item.synonym.toLowerCase().includes(q)
-  );
+  return item.code.toLowerCase() === q || item.synonym.toLowerCase() === q;
 }
 
 function formatElapsed(ms: number): string {
@@ -29,6 +24,7 @@ export function PreEntryPractice() {
   const [completedIds, setCompletedIds] = useState<Set<string>>(new Set());
   const [input, setInput] = useState("");
   const [setIndex, setSetIndex] = useState(0);
+  const [showCodeAndSynonym, setShowCodeAndSynonym] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
   const {
@@ -158,9 +154,18 @@ export function PreEntryPractice() {
 
       {/* Current set list */}
       <section aria-label="Tests to complete">
-        <p className="mb-2 text-sm font-medium text-slate-600">
-          Type code or synonym and press Tab to mark as done.
-        </p>
+        <div className="mb-2 flex flex-wrap items-center gap-2">
+          <p className="text-sm font-medium text-slate-600">
+            Type code or synonym and press Tab to mark as done.
+          </p>
+          <button
+            type="button"
+            onClick={() => setShowCodeAndSynonym((v) => !v)}
+            className="rounded border border-slate-300 bg-white px-2.5 py-1 text-xs font-medium text-slate-600 shadow-sm hover:bg-slate-50"
+          >
+            {showCodeAndSynonym ? "Hide" : "Show"} hints
+          </button>
+        </div>
         <ul className="space-y-1.5 rounded-lg border border-slate-200 bg-white p-3 shadow-sm">
           {currentTests.map((item) => {
             const id = `${item.code}-${item.synonym}`;
@@ -174,9 +179,11 @@ export function PreEntryPractice() {
                     : "text-slate-700"
                 }`}
               >
-                <span className="font-mono font-medium">{item.code}</span>
+                {showCodeAndSynonym && (
+                  <span className="font-mono font-medium">{item.code}</span>
+                )}
                 <span>{item.name}</span>
-                {item.synonym && (
+                {showCodeAndSynonym && item.synonym && (
                   <span className="text-slate-500">({item.synonym})</span>
                 )}
                 {done && (
