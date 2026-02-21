@@ -2229,7 +2229,7 @@
     "code": "B049",
     "name": "Troponin",
     "depName": "BIOCHEMISTRY",
-    "synonym": "TnI"
+    "synonym": "Tnl"
   },
   {
     "code": "B012",
@@ -3331,7 +3331,7 @@
   },
   {
     "code": "M007",
-    "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+    "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ Throat)",
     "depName": "MICROBIOLOGY",
     "synonym": "MCS1"
   },

@@ -1,73 +1,101 @@
-# React + TypeScript + Vite
+# LabTrak
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lab test management app for browsing pre-entry test codes and practicing test entry workflows. [Live](https://labtrak.netlify.app/)
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React 19** + **TypeScript**
+- **Vite** (build tool)
+- **Tailwind CSS** (styling)
+- **React Router** (routing)
+- **TanStack Query** (data fetching & caching)
 
-## React Compiler
+## Features
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+### Pre-entry Test Codes (`/`)
 
-## Expanding the ESLint configuration
+- Searchable list of lab test codes
+- Search by code, name, department, or synonym
+- Data loaded from `pre-entry-test-code.json` (replace with API when ready)
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+### Pre Entry Practice (`/pre-entry-practice`)
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- Practice entering test codes from simulated lab requests
+- Each request shows: request ID, name, type, clinical notes, and a list of tests
+- Type a test **code** or **synonym** and press **Tab** to mark it done
+- When all tests in a request are complete, the next request loads
+- Tracks total completion time
+- **Show/Hide** button to toggle visibility of codes and synonyms (hidden by default for practice)
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### Layout
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+- **Sidebar** navigation (collapsible on desktop, closed by default on mobile)
+- Responsive design with mobile menu toggle
+
+## Project Structure
+
+```
+src/
+├── components/
+│   ├── Layout.tsx      # App layout with sidebar + outlet
+│   └── Sidebar.tsx     # Collapsible sidebar navigation
+├── pages/
+│   ├── PreEntryTestList.tsx   # Test codes list with search
+│   └── PreEntryPractice.tsx   # Practice mode
+├── services/
+│   └── testService.ts  # Data fetching (replace with API)
+├── types/
+│   ├── preEntryTestCode.ts
+│   └── preEntryPractice.ts
+├── data/
+│   ├── pre-entry-test-code.json
+│   └── pre-entry-practice.json
+├── App.tsx
+└── main.tsx
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+## Getting Started
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### Prerequisites
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+- Node.js 18+
+- npm
+
+### Install
+
+```bash
+npm install
 ```
+
+### Development
+
+```bash
+npm run dev
+```
+
+Open [http://localhost:5173](http://localhost:5173).
+
+### Build
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+### Lint
+
+```bash
+npm run lint
+```
+
+## Data Sources
+
+- **Pre-entry test codes**: `public/pre-entry-test-code.json` (or configure `PRE_ENTRY_TEST_CODES_URL` in `testService.ts`)
+- **Practice requests**: `src/data/pre-entry-practice.json` (replace with API when ready)
+
+Practice data format: array of `PreEntryPracticeRequest` objects with `requestId`, `requestName`, `requestType`, `clinicalNotes`, and `tests` (array of `PreEntryTestCode`).

@@ -182,10 +182,10 @@
         "synonym": "LFT"
       },
       {
-        "code": "B300",
-        "name": "Protein Electrophoresis",
-        "depName": "BIOCHEMISTRY",
-        "synonym": "PEPG_XXX"
+        "code": "H025",
+        "name": "HAEMOGLOBIN ELECTROPHORE",
+        "depName": "HAEMATOLOGY",
+        "synonym": "HbEPG"
       },
       {
         "code": "I235",
@@ -326,6 +326,12 @@
         "name": "URINE MICROSCOPY",
         "depName": "MICROBIOLOGY",
         "synonym": "UM"
+      },
+      {
+        "code": "A422",
+        "name": "GENERAL CYTOLOGY/Urine Cytology",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "GCyto"
       }
     ]
   },
@@ -352,6 +358,12 @@
         "name": "FAECAL PATHOGENS PCR",
         "depName": "MICROBIOLOGY",
         "synonym": "FCPCR"
+      },
+      {
+        "code": "I250",
+        "name": "Helicobacter pylori antigen on Faeces",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HPSA"
       }
     ]
   },
@@ -706,10 +718,10 @@
     "clinicalNotes": "Fever, cough, SOB, close contact with COVID+ case",
     "tests": [
       {
-        "code": "I400",
+        "code": "I051",
         "name": "SARS-CoV-2 (CORONAVIRUS) PCR",
         "depName": "IMMUNOLOGY",
-        "synonym": "COVID"
+        "synonym": "FLUPCR"
       }
     ]
   },
@@ -721,15 +733,15 @@
     "tests": [
       {
         "code": "I051",
-        "name": "RESPIRATORY PATHOGENS PCR",
+        "name": "RESPIRATORY PATHOGENS PCR/Covid",
         "depName": "IMMUNOLOGY",
         "synonym": "FLUPCR"
       },
       {
-        "code": "I400",
-        "name": "SARS-CoV-2 (CORONAVIRUS) PCR",
+        "code": "I091",
+        "name": "ATYPICAL PNEUMONIA",
         "depName": "IMMUNOLOGY",
-        "synonym": "COVID"
+        "synonym": "Legion"
       }
     ]
   },

@@ -1,22 +1,25 @@
-import type { PreEntryTestCode } from '../types/preEntryTestCode'
-import type { PreEntryPracticeRequest } from '../types/preEntryPractice'
-import practiceData from '../data/pre-entry-practice.json'
+import type { PreEntryTestCode } from "../types/preEntryTestCode";
+import type { PreEntryPracticeRequest } from "../types/preEntryPractice";
 
-const PRE_ENTRY_TEST_CODES_URL = '/pre-entry-test-code.json'
+const PRE_ENTRY_TEST_CODES_URL = "/pre-entry-test-code.json";
+const PRE_ENTRY_PRACTICE = "/src/data/pre-entry-practice.json";
 
 /**
- * Fetches pre-entry test codes. Replace PRE_ENTRY_TEST_CODES_URL with your real API endpoint when ready.
+ * Fetches pre-entry test codes. Replace PRE_ENTRY_TEST_CODES_URL with real API.
  */
 export async function getPreEntryTestCodes(): Promise<PreEntryTestCode[]> {
-  const res = await fetch(PRE_ENTRY_TEST_CODES_URL)
-  if (!res.ok) throw new Error('Failed to fetch pre-entry test codes')
-  return res.json()
+  const res = await fetch(PRE_ENTRY_TEST_CODES_URL);
+  if (!res.ok) throw new Error("Failed to fetch pre-entry test codes");
+  return res.json();
 }
 
 /**
- * Fetches practice requests for Pre Entry Practice from src/data/pre-entry-practice.json.
- * Replace with API call when ready.
+ * Fetches pre-entry practice data set. Replace with real API call when it's ready.
  */
-export async function getPreEntryTestSets(): Promise<PreEntryPracticeRequest[]> {
-  return Promise.resolve(practiceData as PreEntryPracticeRequest[])
+export async function getPreEntryTestSets(): Promise<
+  PreEntryPracticeRequest[]
+> {
+  const res = await fetch(PRE_ENTRY_PRACTICE);
+  if (!res.ok) throw new Error("Failed ro fetch practice test sets");
+  return res.json();
 }

@@ -1,0 +1,956 @@
+[
+  {
+    "requestId": "REQ101",
+    "requestName": "Throat/Pharyngeal Swab Culture",
+    "requestType": "Swab Test",
+    "clinicalNotes": "Sore throat, pharyngitis assessment",
+    "tests": [
+      {
+        "code": "M007",
+        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ Throat)",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS1"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ102",
+    "requestName": "Herpes Simplex Virus Testing",
+    "requestType": "Swab Test",
+    "clinicalNotes": "Vesicular lesions, ?HSV infection",
+    "tests": [
+      {
+        "code": "A161",
+        "name": "HERPES SIMPLEX VIRUS SEROLOGY",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "HSVS"
+      },
+      {
+        "code": "M026",
+        "name": "HSV PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HSV"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ103",
+    "requestName": "Vaginal Swab - GCP Assessment",
+    "requestType": "Swab Test",
+    "clinicalNotes": "Vaginal discharge, assess for infection",
+    "tests": [
+      {
+        "code": "M008",
+        "name": "GENITAL SWAB EXAMINATION - Vaginal/ Ur",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS2"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ104",
+    "requestName": "Rectal Swab Culture",
+    "requestType": "Swab Test",
+    "clinicalNotes": "Rectal symptoms, rule out infection",
+    "tests": [
+      {
+        "code": "M004",
+        "name": "FAECES MICRO AND CULTURE",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FAEC"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ105",
+    "requestName": "Nasal Swab - Respiratory Pathogen Screen",
+    "requestType": "Swab Test",
+    "clinicalNotes": "URTI symptoms, nasal congestion",
+    "tests": [
+      {
+        "code": "M007",
+        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS1"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ106",
+    "requestName": "Combined Urine and Throat Culture",
+    "requestType": "Urine & Swab Test",
+    "clinicalNotes": "Urinary symptoms and sore throat",
+    "tests": [
+      {
+        "code": "M135",
+        "name": "URINE MCS",
+        "depName": "MICROBIOLOGY",
+        "synonym": "UMCS"
+      },
+      {
+        "code": "M007",
+        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS1"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ107",
+    "requestName": "C. difficile Toxin Test",
+    "requestType": "Stool Test",
+    "clinicalNotes": "Diarrhea post-antibiotics, ?C. diff infection",
+    "tests": [
+      {
+        "code": "M004",
+        "name": "FAECES MICRO AND CULTURE",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FAEC"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ108",
+    "requestName": "Rectal Infection Screen",
+    "requestType": "Swab Test",
+    "clinicalNotes": "Perianal symptoms, infection assessment",
+    "tests": [
+      {
+        "code": "M004",
+        "name": "FAECES MICRO AND CULTURE",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FAEC"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ109",
+    "requestName": "Inguinal Region Swab",
+    "requestType": "Swab Test",
+    "clinicalNotes": "Inguinal area infection, lymphadenopathy",
+    "tests": [
+      {
+        "code": "M009",
+        "name": "MICROBIOLOGICAL EXAMINATION (PUS/D",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ110",
+    "requestName": "Urogenital Pathogen Screen",
+    "requestType": "Genital Swab",
+    "clinicalNotes": "Urogenital symptoms, comprehensive screen",
+    "tests": [
+      {
+        "code": "M028",
+        "name": "UROGENITAL PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "URIMYC"
+      },
+      {
+        "code": "M008",
+        "name": "GENITAL SWAB EXAMINATION - Vaginal/ Ur",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS2"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ111",
+    "requestName": "Chlamydia PCR Testing",
+    "requestType": "Swab Test",
+    "clinicalNotes": "STI screening, chlamydia exposure risk",
+    "tests": [
+      {
+        "code": "M028",
+        "name": "CHLAMYDIA PCR",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "URIMYC"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ112",
+    "requestName": "STI Comprehensive Screen",
+    "requestType": "Blood & Swab Test",
+    "clinicalNotes": "Complete STI screening panel",
+    "tests": [
+      {
+        "code": "M028",
+        "name": "CHLAM_GONO PCR",
+        "depName": "IMMUNOLOGY",
+        "synonym": "URIMYC"
+      },
+      {
+        "code": "I260",
+        "name": "HIV SEROLOGY SCREEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HIV"
+      },
+      {
+        "code": "I235",
+        "name": "HEPATITIS B SURFACE ANTIGEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAg"
+      },
+      {
+        "code": "I247",
+        "name": "HEPATITIS C SEROLOGY - HCV Ab",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HCV"
+      },
+      {
+        "code": "I043",
+        "name": "SYPHILIS SEROLOGY",
+        "depName": "IMMUNOLOGY",
+        "synonym": "RPR"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ113",
+    "requestName": "Lyme Disease Serology",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Tick bite exposure, erythema migrans",
+    "tests": [
+      {
+        "code": "A6013",
+        "name": "LYME ANTIBODIES",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "LYME"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ114",
+    "requestName": "Histopathology Bone Sample",
+    "requestType": "Tissue Biopsy",
+    "clinicalNotes": "Bone lesion, histological examination required",
+    "tests": [
+      {
+        "code": "R010",
+        "name": "HISTOPATHOLOGY",
+        "depName": "HISTOPATHOLOGY",
+        "synonym": "HISTO"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ116",
+    "requestName": "Androgen and SHBG Panel",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Hormonal assessment, PCOS workup",
+    "tests": [
+      {
+        "code": "E020",
+        "name": "TESTOSTERONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "TESTO"
+      },
+      {
+        "code": "E027",
+        "name": "FREE ANDROGEN INDEX",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FAI"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ117",
+    "requestName": "Fungal PCR Testing",
+    "requestType": "Swab/Tissue Test",
+    "clinicalNotes": "Suspected fungal infection, PCR confirmation",
+    "tests": [
+      {
+        "code": "M091",
+        "name": "Fungal PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MYCPCR"
+      },
+      {
+        "code": "M014",
+        "name": "Mycology",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MYCOLOGY"
+      },
+      {
+        "code": "M015",
+        "name": "Mycology Culture",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MYCOCULT"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ118",
+    "requestName": "High Vaginal Swab M/C/S",
+    "requestType": "Vaginal Swab",
+    "clinicalNotes": "Vaginal discharge, microscopy culture sensitivity",
+    "tests": [
+      {
+        "code": "M008",
+        "name": "GENITAL SWAB EXAMINATION - Vaginal/ Ur",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS2"
+      },
+      {
+        "code": "M024",
+        "name": "VAGINOSIS PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "VPCR"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ119",
+    "requestName": "Cervical Screening - Pap Smear with HPV",
+    "requestType": "Cervical Sample",
+    "clinicalNotes": "Routine cervical cancer screening",
+    "tests": [
+      {
+        "code": "A417",
+        "name": "CERVICAL SCREENING TEST",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "HPV"
+      },
+      {
+        "code": "M332",
+        "name": "HPV PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HPVPCR"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ120",
+    "requestName": "HSV and VZV PCR Testing",
+    "requestType": "Swab Test",
+    "clinicalNotes": "Vesicular rash, differentiate HSV vs VZV",
+    "tests": [
+      {
+        "code": "M026",
+        "name": "HSV PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HSV"
+      },
+      {
+        "code": "M027",
+        "name": "VZV PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "VZV"
+      },
+      {
+        "code": "A161",
+        "name": "HERPES SIMPLEX VIRUS SEROLOGY",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "HSVS"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ121",
+    "requestName": "Urogenital PCR Panel",
+    "requestType": "Urine Test",
+    "clinicalNotes": "Urinary symptoms, urogenital pathogen screen",
+    "tests": [
+      {
+        "code": "M028",
+        "name": "UROGENITAL PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "URIMYC"
+      },
+      {
+        "code": "M135",
+        "name": "URINE MCS",
+        "depName": "MICROBIOLOGY",
+        "synonym": "UMCS"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ122",
+    "requestName": "Faecal Microscopy Culture & Sensitivity",
+    "requestType": "Stool Test",
+    "clinicalNotes": "Acute diarrhea, bacterial gastroenteritis",
+    "tests": [
+      {
+        "code": "M004",
+        "name": "FAECES MICRO AND CULTURE",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FAEC"
+      },
+      {
+        "code": "M120",
+        "name": "FAECAL PATHOGENS PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FCPCR"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ123",
+    "requestName": "Faecal Pathogen PCR",
+    "requestType": "Stool Test",
+    "clinicalNotes": "Persistent diarrhea, comprehensive stool PCR",
+    "tests": [
+      {
+        "code": "M120",
+        "name": "FAECAL PATHOGENS PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FCPCR"
+      },
+      {
+        "code": "M010",
+        "name": "Faecal Enteric bacterial PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "FBPCR"
+      },
+      {
+        "code": "M003",
+        "name": "Faecal Parasite PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "OCPCR"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ124",
+    "requestName": "Valproate (Epilim) Level",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Epilepsy management, therapeutic drug monitoring",
+    "tests": [
+      {
+        "code": "B040",
+        "name": "EPILIM",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "VPA"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ125",
+    "requestName": "Hepatitis B Viral Load",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Chronic Hep B monitoring, viral load assessment",
+    "tests": [
+      {
+        "code": "M330",
+        "name": "HEPATIS B DNA VIRAL LOAD",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HEPBDNA"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ126",
+    "requestName": "Hepatitis C RNA Viral Load",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Hep C treatment monitoring, viral load quantification",
+    "tests": [
+      {
+        "code": "M331",
+        "name": "HEPATITIS C RNA VIRAL LOAD",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HEPCRNA"
+      },
+      {
+        "code": "I247",
+        "name": "HEPATITIS C SEROLOGY - HCV Ab",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HCV"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ127",
+    "requestName": "Homocysteine Level",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Cardiovascular risk assessment, ?hyperhomocysteinemia",
+    "tests": [
+      {
+        "code": "A201",
+        "name": "HOMOCYSTEINE",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "Homocyst"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ128",
+    "requestName": "Vitamin B6, B12 and Folate Panel",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Anemia workup, B vitamin deficiency screen",
+    "tests": [
+      {
+        "code": "A1002",
+        "name": "VITAMIN B6 LEVEL",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "VITB6"
+      },
+      {
+        "code": "E014",
+        "name": "VITAMIN B12",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "B12"
+      },
+      {
+        "code": "E015",
+        "name": "FOLATE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FOL"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ129",
+    "requestName": "Thalassaemia Screening",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Family history of thalassaemia, prenatal screening",
+    "tests": [
+      {
+        "code": "H025",
+        "name": "Hb-EPG-HAEMOGLOBIN ELECTROPHORE",
+        "depName": "HAEMATOLOGY",
+        "synonym": "Hb-EPG"
+      },
+      {
+        "code": "H008",
+        "name": "Full Blood Examination (no ESR)",
+        "depName": "HAEMATOLOGY",
+        "synonym": "FBC"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ130",
+    "requestName": "Phenytoin (Dilantin) Level",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Seizure disorder, therapeutic drug monitoring",
+    "tests": [
+      {
+        "code": "B038",
+        "name": "Dilantil",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "PHY"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ131",
+    "requestName": "Fructosamine Test",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Short-term glucose control assessment",
+    "tests": [
+      {
+        "code": "A4333",
+        "name": "FRUCTOSAMINE",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "FRUCT"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ132",
+    "requestName": "Self-Collected Cervical Screening",
+    "requestType": "Self-Collected Swab",
+    "clinicalNotes": "Cervical cancer screening - patient self-collection",
+    "tests": [
+      {
+        "code": "A5228",
+        "name": "SELF COLLECT CERVICAL SCREENING",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "SCCS"
+      },
+      {
+        "code": "A417",
+        "name": "CERVICAL SCREENING TEST",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "HPV"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ133",
+    "requestName": "ThinPrep Pap Smear with HPV",
+    "requestType": "Cervical Sample",
+    "clinicalNotes": "Routine cervical screening, ThinPrep method",
+    "tests": [
+      {
+        "code": "M332",
+        "name": "HPV PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HPVPCR"
+      },
+      {
+        "code": "A417",
+        "name": "CERVICAL SCREENING TEST",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "HPV"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ134",
+    "requestName": "Celiac Disease Serology Panel",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Suspected celiac disease, gluten sensitivity",
+    "tests": [
+      {
+        "code": "I098",
+        "name": "Gliadin",
+        "depName": "IMMUNOLOGY",
+        "synonym": "GLIA"
+      },
+      {
+        "code": "A3109",
+        "name": "COELIAC SEROLOGY",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "COEL"
+      },
+      {
+        "code": "A1063",
+        "name": "COELIAC GENOTYPE",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "COEGEN"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ135",
+    "requestName": "Syphilis Serology - VDRL/TPHA",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Syphilis screening, RPR positive - confirmatory test",
+    "tests": [
+      {
+        "code": "I049",
+        "name": "Syphilis TP",
+        "depName": "IMMUNOLOGY",
+        "synonym": "SYTP"
+      },
+      {
+        "code": "I044",
+        "name": "TPHA",
+        "depName": "IMMUNOLOGY",
+        "synonym": "TPHA"
+      },
+      {
+        "code": "I049",
+        "name": "Syphilis TP",
+        "depName": "IMMUNOLOGY",
+        "synonym": "SYTP"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ136",
+    "requestName": "Kidney Function Tests",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Renal function assessment, CKD monitoring",
+    "tests": [
+      {
+        "code": "B028",
+        "name": "Electrolytes Urea Creatinine",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "EUC"
+      },
+      {
+        "code": "B600",
+        "name": "eGFR",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "GFR"
+      },
+      {
+        "code": "B023",
+        "name": "Uric Acid",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "U/A"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ137",
+    "requestName": "Male Hormone Profile - Androgen Panel",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Low testosterone symptoms, hypogonadism workup",
+    "tests": [
+      {
+        "code": "E013",
+        "name": "Follicle Stimulating Hormone",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FSH"
+      },
+      {
+        "code": "E012",
+        "name": "Luteinizing Hormone",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "LH"
+      },
+      {
+        "code": "E020",
+        "name": "TESTOSTERONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "TESTO"
+      },
+      {
+        "code": "E027",
+        "name": "FREE ANDROGEN INDEX",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FAI"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ138",
+    "requestName": "Hepatitis B DNA Quantitative PCR",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Chronic hepatitis B, treatment response monitoring",
+    "tests": [
+      {
+        "code": "M330",
+        "name": "HEPATIS B DNA VIRAL LOAD",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HEPBDNA"
+      },
+      {
+        "code": "I235",
+        "name": "HEPATITIS B SURFACE ANTIGEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAg"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ139",
+    "requestName": "Eye Swab - HSV PCR",
+    "requestType": "Eye Swab",
+    "clinicalNotes": "Suspected herpetic keratitis, eye infection",
+    "tests": [
+      {
+        "code": "M026",
+        "name": "HSV PCR",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HSV"
+      },
+      {
+        "code": "M007",
+        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+        "depName": "MICROBIOLOGY",
+        "synonym": "MCS1"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ140",
+    "requestName": "Helicobacter Pylori Testing",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Peptic ulcer disease, H. pylori screen",
+    "tests": [
+      {
+        "code": "I035",
+        "name": "HELICOBACTER PYLORI SEROLOGY",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HPYL"
+      },
+      {
+        "code": "I250",
+        "name": "Helicobacter pylori antigen",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HPSA"
+      },
+      {
+        "code": "I350",
+        "name": "PY BREATH TEST",
+        "depName": "IMMUNOLOGY",
+        "synonym": "UBT"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ141",
+    "requestName": "Sodium Valproate Level",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Epilepsy treatment monitoring, Epilim level",
+    "tests": [
+      {
+        "code": "B040",
+        "name": "EPILIM",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "VPA"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ142",
+    "requestName": "Mycoplasma and Legionella Serology",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Atypical pneumonia, respiratory infection",
+    "tests": [
+      {
+        "code": "I091",
+        "name": "ATYPICAL PNEUMONIA",
+        "depName": "IMMUNOLOGY",
+        "synonym": "Legion"
+      },
+      {
+        "code": "A6014",
+        "name": "MYCOPLASMA SEROLOGY",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "MYCO"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ143",
+    "requestName": "Androgen Profile with Free Androgen Index",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Hirsutism, PCOS assessment, androgen excess",
+    "tests": [
+      {
+        "code": "E027",
+        "name": "FREE ANDROGEN INDEX",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "FAI"
+      },
+      {
+        "code": "E020",
+        "name": "TESTOSTERONE",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "TESTO"
+      },
+      {
+        "code": "E230",
+        "name": "DHEA-S",
+        "depName": "ENDOCRINOLOGY",
+        "synonym": "DHEAS"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ144",
+    "requestName": "Cardiac Enzymes - Troponin and CK",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Chest pain, ?acute coronary syndrome",
+    "tests": [
+      {
+        "code": "B049",
+        "name": "Troponin",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "Tnl"
+      },
+      {
+        "code": "B014",
+        "name": "CREATININE KINASE",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CK"
+      },
+      {
+        "code": "B052",
+        "name": "CARDIAC ENZYMES",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "CE"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ145",
+    "requestName": "Total Bilirubin and Liver Function",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Jaundice, elevated bilirubin",
+    "tests": [
+      {
+        "code": "B010",
+        "name": "Liver Function Test/T-Bili",
+        "depName": "BIOCHEMISTRY",
+        "synonym": "LFT"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ146",
+    "requestName": "MMR Immunity Screen",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Pre-employment screening, assess MMR immunity",
+    "tests": [
+      {
+        "code": "I360",
+        "name": "MEASLES SEROLOGY",
+        "depName": "IMMUNOLOGY",
+        "synonym": "MEA"
+      },
+      {
+        "code": "I370",
+        "name": "MUMPS SEROLOGY",
+        "depName": "IMMUNOLOGY",
+        "synonym": "MUM"
+      },
+      {
+        "code": "I029",
+        "name": "RUBELLA IgG SEROLOGY",
+        "depName": "IMMUNOLOGY",
+        "synonym": "RubG"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ147",
+    "requestName": "Hepatitis B e Antigen",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Hep B carrier, assess infectivity status",
+    "tests": [
+      {
+        "code": "A5207",
+        "name": "HEPATITIS B - e Ag",
+        "depName": "(A) REFERRED TESTS",
+        "synonym": "HBEAG"
+      },
+      {
+        "code": "I235",
+        "name": "HEPATITIS B SURFACE ANTIGEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAg"
+      },
+      {
+        "code": "I245",
+        "name": "HBeAb",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBeAb"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ148",
+    "requestName": "Hepatitis B e Antibody",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Hep B serology, e antibody status",
+    "tests": [
+      {
+        "code": "I245",
+        "name": "HBeAb",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBeAb"
+      },
+      {
+        "code": "I235",
+        "name": "HEPATITIS B SURFACE ANTIGEN",
+        "depName": "IMMUNOLOGY",
+        "synonym": "HBsAg"
+      }
+    ]
+  },
+  {
+    "requestId": "REQ149",
+    "requestName": "HBV DNA Quantification",
+    "requestType": "Blood Test",
+    "clinicalNotes": "Chronic hepatitis B viral load monitoring",
+    "tests": [
+      {
+        "code": "M330",
+        "name": "HEPATIS B DNA VIRAL LOAD",
+        "depName": "MICROBIOLOGY",
+        "synonym": "HEPBDNA"
+      }
+    ]
+  }
+]
