@@ -205,7 +205,7 @@
         "code": "I043",
         "name": "SYPHILIS SEROLOGY",
         "depName": "IMMUNOLOGY",
-        "synonym": "RPR"
+        "synonym": "SYTP"
       }
     ]
   },
@@ -665,7 +665,7 @@
         "code": "B023",
         "name": "Uric Acid",
         "depName": "BIOCHEMISTRY",
-        "synonym": "U/A"
+        "synonym": "UA"
       }
     ]
   },
