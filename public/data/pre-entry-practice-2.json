@@ -69,7 +69,7 @@
     "tests": [
       {
         "code": "M007",
-        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ Throat)",
         "depName": "MICROBIOLOGY",
         "synonym": "MCS1"
       }
@@ -89,7 +89,7 @@
       },
       {
         "code": "M007",
-        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ Throat)",
         "depName": "MICROBIOLOGY",
         "synonym": "MCS1"
       }
@@ -331,15 +331,9 @@
     "tests": [
       {
         "code": "M026",
-        "name": "HSV PCR",
+        "name": "HSV / VZV PCR",
         "depName": "MICROBIOLOGY",
         "synonym": "HSV"
-      },
-      {
-        "code": "M027",
-        "name": "VZV PCR",
-        "depName": "MICROBIOLOGY",
-        "synonym": "VZV"
       },
       {
         "code": "A161",
@@ -513,7 +507,7 @@
         "code": "H025",
         "name": "Hb-EPG-HAEMOGLOBIN ELECTROPHORE",
         "depName": "HAEMATOLOGY",
-        "synonym": "Hb-EPG"
+        "synonym": "HbEPG"
       },
       {
         "code": "H008",
@@ -599,15 +593,9 @@
     "tests": [
       {
         "code": "I098",
-        "name": "Gliadin",
+        "name": "Gliadin/COELIAC SEROLOGY",
         "depName": "IMMUNOLOGY",
         "synonym": "GLIA"
-      },
-      {
-        "code": "A3109",
-        "name": "COELIAC SEROLOGY",
-        "depName": "(A) REFERRED TESTS",
-        "synonym": "COEL"
       },
       {
         "code": "A1063",
@@ -634,12 +622,6 @@
         "name": "TPHA",
         "depName": "IMMUNOLOGY",
         "synonym": "TPHA"
-      },
-      {
-        "code": "I049",
-        "name": "Syphilis TP",
-        "depName": "IMMUNOLOGY",
-        "synonym": "SYTP"
       }
     ]
   },
@@ -735,7 +717,7 @@
       },
       {
         "code": "M007",
-        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ T",
+        "name": "SWAB CULTURE EXAMINATION (Ear/ Eye/ Throat)",
         "depName": "MICROBIOLOGY",
         "synonym": "MCS1"
       }

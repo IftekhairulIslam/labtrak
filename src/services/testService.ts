@@ -1,8 +1,8 @@
 import type { PreEntryTestCode } from "../types/preEntryTestCode";
 import type { PreEntryPracticeRequest } from "../types/preEntryPractice";
 
-const PRE_ENTRY_TEST_CODES_URL = "/pre-entry-test-code.json";
-const PRE_ENTRY_PRACTICE = "/src/data/pre-entry-practice.json";
+const PRE_ENTRY_TEST_CODES_URL = "/data/pre-entry-test-code.json";
+const PRE_ENTRY_PRACTICE = "/data/pre-entry-practice.json";
 
 /**
  * Fetches pre-entry test codes. Replace PRE_ENTRY_TEST_CODES_URL with real API.
