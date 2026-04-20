@@ -1,5 +1,5 @@
-import type { PreEntryTestCode } from "../types/preEntryTestCode";
-import type { PreEntryPracticeRequest } from "../types/preEntryPractice";
+import type { PreEntryTestCode } from "../../../types/preEntryTestCode";
+import type { PreEntryPracticeRequest } from "../../../types/preEntryPractice";
 
 const PRE_ENTRY_TEST_CODES_URL = "/data/pre-entry-test-code.json";
 const PRE_ENTRY_PRACTICE = "/data/pre-entry-practice.json";

@@ -1,7 +1,6 @@
 import { useMemo, useState } from "react";
-import { useQuery } from "@tanstack/react-query";
-import { getPreEntryTestCodes } from "../services/testService";
-import type { PreEntryTestCode } from "../types/preEntryTestCode";
+import type { PreEntryTestCode } from "../../../types/preEntryTestCode";
+import { useTestCodes } from "../../../hooks/useTestCodes";
 
 function matchSearch(item: PreEntryTestCode, q: string): boolean {
   if (!q.trim()) return true;
@@ -17,18 +16,10 @@ function matchSearch(item: PreEntryTestCode, q: string): boolean {
 export function PreEntryTestList() {
   const [search, setSearch] = useState("");
 
-  const {
-    data: items = [],
-    isLoading,
-    isError,
-    error,
-  } = useQuery({
-    queryKey: ["preEntryTestCodes"],
-    queryFn: getPreEntryTestCodes,
-  });
+  const { data: items = [], isLoading, isError, error } = useTestCodes();
 
   const filtered = useMemo(
-    () => items.filter((item) => matchSearch(item, search)),
+    () => items.filter((item: PreEntryTestCode) => matchSearch(item, search)),
     [items, search],
   );
 
@@ -65,7 +56,7 @@ export function PreEntryTestList() {
         Showing {filtered.length} of {items.length} tests
       </p>
       <ul className="divide-y divide-slate-200 rounded-lg border border-slate-200 bg-white shadow-sm">
-        {filtered.map((item) => (
+        {filtered.map((item: PreEntryTestCode) => (
           <li
             key={`${item.code}-${item.synonym}`}
             className="flex flex-wrap items-center gap-x-4 gap-y-1 px-4 py-3 text-slate-700 hover:bg-slate-50"

@@ -1,8 +1,8 @@
 import { useState, useRef, useEffect } from "react";
 import { useQuery } from "@tanstack/react-query";
-import { getPreEntryTestSets } from "../services/testService";
-import type { PreEntryTestCode } from "../types/preEntryTestCode";
-import type { PreEntryPracticeRequest } from "../types/preEntryPractice";
+import { getPreEntryTestSets } from "../service/testService";
+import type { PreEntryTestCode } from "../../../types/preEntryTestCode";
+import type { PreEntryPracticeRequest } from "../../../types/preEntryPractice";
 
 function matchInput(item: PreEntryTestCode, input: string): boolean {
   const q = input.trim().toLowerCase();

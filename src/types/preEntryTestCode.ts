@@ -3,4 +3,6 @@ export interface PreEntryTestCode {
   name: string;
   depName: string;
   synonym: string;
+  createdAt: string;
+  updatedAt: string;
 }
