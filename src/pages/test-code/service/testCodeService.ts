@@ -1,5 +1,5 @@
-import { ENDPOINTS } from "../configuration/endpoints";
-import httpService from "./httpService";
+import { ENDPOINTS } from "../../../configuration/endpoints";
+import httpService from "../../../services/httpService";
 
 class TestCodeService {
   getTestCodes() {

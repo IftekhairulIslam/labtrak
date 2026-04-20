@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Layout } from "./components/Layout";
-import { PreEntryTestList } from "./pages/PreEntryTestList";
-import { PreEntryPractice } from "./pages/PreEntryPractice";
+import { PreEntryTestList } from "./pages/test-code/component/PreEntryTestList";
+import { PreEntryPractice } from "./pages/pre-entry-practice/components/PreEntryPractice";
 import "./App.css";
 
 function App() {

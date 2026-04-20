@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import testCodeService from "../services/testCodeService";
+import testCodeService from "../pages/test-code/service/testCodeService";
 import { ENDPOINTS } from "../configuration/endpoints";
 
 export const useTestCodes = () => {

@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
-import type { PreEntryTestCode } from "../types/preEntryTestCode";
-import { useTestCodes } from "../hooks/useTestCodes";
+import type { PreEntryTestCode } from "../../../types/preEntryTestCode";
+import { useTestCodes } from "../../../hooks/useTestCodes";
 
 function matchSearch(item: PreEntryTestCode, q: string): boolean {
   if (!q.trim()) return true;
